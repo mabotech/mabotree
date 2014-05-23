@@ -15,8 +15,13 @@ Recommand Resources
 - [Angular-xeditable](https://github.com/vitalets/angular-xeditable)
 - [DEVOOPS](https://github.com/devoopsme/devoops)
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter)
-- [node opcua](https://github.com/node-opcua/node-opcua)
-- [koa](https://github.com/koajs/koa)
+- [Node Opcua](https://github.com/node-opcua/node-opcua)
+- [Koa](https://github.com/koajs/koa)
+- [NPM](https://www.npmjs.org/)
+
+##  Iconic font
+
+- [Font-Awesome | FA](http://fontawesome.io/icons/)
 
 ## DataBase
 
@@ -27,17 +32,18 @@ Recommand Resources
 
 ## Python
 
-- [Warehouse](https://warehouse.python.org/)
+- [Python Warehouse](https://warehouse.python.org/)
 - [Flask](http://flask.pocoo.org/)
 - [Mako Template](http://www.makotemplates.org/)
 - [Requests](https://github.com/kennethreitz/requests)
-- [OpenOPC]()
+- [OpenOPC](http://openopc.sourceforge.net/)
 
 ## Tools
 
 - [SciTE](http://www.scintilla.org/ "SciTE")
 - [SciTE Properties by Mabo](https://github.com/majj/scite "SciTE properties")
 - [streamtools](https://github.com/nytlabs/streamtools)
+- [NSSM](http://nssm.cc/)
 
 ## Languages
 
@@ -51,7 +57,7 @@ Recommand Resources
 
 - [oschina](http://www.oschina.net/)
 - [Startup News](http://news.dbanotes.net/)
-- [infoq](http://www.infoq.com/)
+- [Infoq](http://www.infoq.com/)
 
 
 License
