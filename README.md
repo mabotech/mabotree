@@ -58,6 +58,7 @@ Recommand Resources
 - [oschina](http://www.oschina.net/)
 - [Startup News](http://news.dbanotes.net/)
 - [Infoq](http://www.infoq.com/)
+- [MaNong](http://weekly.manong.io/)
 
 
 License
