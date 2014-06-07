@@ -15,9 +15,18 @@ Recommand Resources
 - [Angular-xeditable](https://github.com/vitalets/angular-xeditable)
 - [DEVOOPS](https://github.com/devoopsme/devoops)
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter)
-- [Node Opcua](https://github.com/node-opcua/node-opcua)
 - [Koa](https://github.com/koajs/koa)
 - [NPM](https://www.npmjs.org/)
+
+## Angular Resources
+
+- [ng-inspector](http://ng-inspector.org/)
+
+## IoT
+
+- [Node Opcua](https://github.com/node-opcua/node-opcua)
+- [OpenOPC](http://openopc.sourceforge.net/)
+
 
 ##  Iconic font
 
@@ -36,7 +45,7 @@ Recommand Resources
 - [Flask](http://flask.pocoo.org/)
 - [Mako Template](http://www.makotemplates.org/)
 - [Requests](https://github.com/kennethreitz/requests)
-- [OpenOPC](http://openopc.sourceforge.net/)
+
 
 ## Tools
 
