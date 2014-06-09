@@ -17,6 +17,7 @@ Recommand Resources
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter)
 - [Koa](https://github.com/koajs/koa)
 - [NPM](https://www.npmjs.org/)
+- [socket.io](http://socket.io/)
 
 ## Angular Resources
 
@@ -45,6 +46,7 @@ Recommand Resources
 - [Flask](http://flask.pocoo.org/)
 - [Mako Template](http://www.makotemplates.org/)
 - [Requests](https://github.com/kennethreitz/requests)
+- [psycopg](http://initd.org/psycopg/)
 
 
 ## Tools
@@ -68,6 +70,11 @@ Recommand Resources
 - [Startup News](http://news.dbanotes.net/)
 - [Infoq](http://www.infoq.com/)
 - [MaNong](http://weekly.manong.io/)
+
+## App
+
+- [odoo](https://github.com/odoo/odoo)
+- [nodered](http://nodered.org/)
 
 ## Cloud
 
