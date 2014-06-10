@@ -33,7 +33,7 @@ Recommand Resources
 
 - [Font-Awesome | FA](http://fontawesome.io/icons/)
 
-## DataBase
+## Database
 
 - [PostgreSQL](http://www.postgresql.org/)
 - [plv8](https://code.google.com/p/plv8js/)
@@ -55,14 +55,18 @@ Recommand Resources
 - [SciTE Properties by Mabo](https://github.com/majj/scite "SciTE properties")
 - [streamtools](https://github.com/nytlabs/streamtools)
 - [NSSM](http://nssm.cc/)
+- [Wireshark](http://www.wireshark.org/)
+- [nodemon](http://nodemon.io/)
 
 ## Languages
 
-- [Javascript / Node](http://nodejs.org/)
+- [Javascript / Node.js](http://nodejs.org/)
+- [coffeescript]()
 - [Python](https://www.python.org/)
 - [Lua](http://www.postgresql.org/)
 - [Golang](http://golang.org/project/)
 - [Erlang](http://www.erlang.org/)
+- [R]()
 
 ## Tech News
 
@@ -75,8 +79,16 @@ Recommand Resources
 
 - [odoo](https://github.com/odoo/odoo)
 - [nodered](http://nodered.org/)
+- [REST APIs](http://www.espressologic.com/)
+
+## Vis
+
+- [vis](http://visjs.org/)
+- [graphviz]()
 
 ## Cloud
+
+- [docker](http://www.docker.com/)
 
 
 
