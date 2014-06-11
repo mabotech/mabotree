@@ -27,6 +27,7 @@ Recommand Resources
 
 - [Node Opcua](https://github.com/node-opcua/node-opcua)
 - [OpenOPC](http://openopc.sourceforge.net/)
+- [pyserial](http://pyserial.sourceforge.net/)
 
 
 ##  Iconic font
