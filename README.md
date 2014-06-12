@@ -19,13 +19,50 @@ Recommand Resources
 - [NPM](https://www.npmjs.org/)
 - [socket.io](http://socket.io/)
 
+## Python
+
+- [Python Warehouse](https://warehouse.python.org/)
+- [Flask](http://flask.pocoo.org/)
+- [Mako Template](http://www.makotemplates.org/)
+- [Requests](https://github.com/kennethreitz/requests)
+- [psycopg](http://initd.org/psycopg/)
+- [pygit2](https://github.com/libgit2/pygit2)
+
+## Database
+
+- [PostgreSQL](http://www.postgresql.org/)
+- [plv8](https://code.google.com/p/plv8js/)
+- [Redis](http://redis.io/)
+
+## Tools
+
+- [Git](http://git-scm.com/)
+- [SciTE](http://www.scintilla.org/ "SciTE")
+- [SciTE Properties by Mabo](https://github.com/majj/scite "SciTE properties")
+- [streamtools](https://github.com/nytlabs/streamtools)
+- [NSSM](http://nssm.cc/)
+- [Wireshark](http://www.wireshark.org/)
+- [nodemon](http://nodemon.io/)
+- [phantomjs](https://github.com/ariya/phantomjs)
+
+## Languages
+
+- [Javascript / Node.js](http://nodejs.org/)
+- [coffeescript](http://coffeescript.org/)
+- [Python](https://www.python.org/)
+- [Lua](http://www.postgresql.org/)
+- [Golang](http://golang.org/project/)
+- [Erlang](http://www.erlang.org/)
+- [R](http://www.r-project.org/)
+
+
 ## Angular Resources
 
 - [ng-inspector](http://ng-inspector.org/)
 
 ## IoT
 
-- [Node Opcua](https://github.com/node-opcua/node-opcua)
+- [Node OPCUA](https://github.com/node-opcua/node-opcua)
 - [OpenOPC](http://openopc.sourceforge.net/)
 - [pyserial](http://pyserial.sourceforge.net/)
 
@@ -34,43 +71,10 @@ Recommand Resources
 
 - [Font-Awesome | FA](http://fontawesome.io/icons/)
 
-## Database
-
-- [PostgreSQL](http://www.postgresql.org/)
-- [plv8](https://code.google.com/p/plv8js/)
-- [Redis](http://redis.io/)
-
-
-## Python
-
-- [Python Warehouse](https://warehouse.python.org/)
-- [Flask](http://flask.pocoo.org/)
-- [Mako Template](http://www.makotemplates.org/)
-- [Requests](https://github.com/kennethreitz/requests)
-- [psycopg](http://initd.org/psycopg/)
-
-
-## Tools
-
-- [SciTE](http://www.scintilla.org/ "SciTE")
-- [SciTE Properties by Mabo](https://github.com/majj/scite "SciTE properties")
-- [streamtools](https://github.com/nytlabs/streamtools)
-- [NSSM](http://nssm.cc/)
-- [Wireshark](http://www.wireshark.org/)
-- [nodemon](http://nodemon.io/)
-
-## Languages
-
-- [Javascript / Node.js](http://nodejs.org/)
-- [coffeescript]()
-- [Python](https://www.python.org/)
-- [Lua](http://www.postgresql.org/)
-- [Golang](http://golang.org/project/)
-- [Erlang](http://www.erlang.org/)
-- [R]()
 
 ## Tech News
 
+- [github trending](https://github.com/trending)
 - [oschina](http://www.oschina.net/)
 - [Startup News](http://news.dbanotes.net/)
 - [Infoq](http://www.infoq.com/)
@@ -80,18 +84,17 @@ Recommand Resources
 
 - [odoo](https://github.com/odoo/odoo)
 - [nodered](http://nodered.org/)
+- [noflo](http://noflojs.org/)
 - [REST APIs](http://www.espressologic.com/)
 
 ## Vis
 
 - [vis](http://visjs.org/)
-- [graphviz]()
+- [graphviz](http://graphviz.org/)
 
 ## Cloud
 
 - [docker](http://www.docker.com/)
-
-
 
 
 License
