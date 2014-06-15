@@ -18,6 +18,7 @@ Recommand Resources
 - [Koa](https://github.com/koajs/koa)
 - [NPM](https://www.npmjs.org/)
 - [socket.io](http://socket.io/)
+- [json-editor](https://github.com/jdorn/json-editor)
 
 ## Python
 
@@ -86,6 +87,7 @@ Recommand Resources
 - [nodered](http://nodered.org/)
 - [noflo](http://noflojs.org/)
 - [REST APIs](http://www.espressologic.com/)
+- [heka](https://github.com/mozilla-services/heka)
 
 ## Vis
 
