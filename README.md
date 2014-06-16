@@ -23,6 +23,8 @@ Recommand Resources
 ## Python
 
 - [Python Warehouse](https://warehouse.python.org/)
+- [python libs for windows](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+- [gevent](https://github.com/surfly/gevent)
 - [Flask](http://flask.pocoo.org/)
 - [Mako Template](http://www.makotemplates.org/)
 - [Requests](https://github.com/kennethreitz/requests)
@@ -83,6 +85,8 @@ Recommand Resources
 
 ## App
 
+- [nginx](http://nginx.org/)
+- [uwsgi](https://github.com/unbit/uwsgi)
 - [odoo](https://github.com/odoo/odoo)
 - [nodered](http://nodered.org/)
 - [noflo](http://noflojs.org/)
