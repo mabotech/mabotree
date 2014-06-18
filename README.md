@@ -97,6 +97,7 @@ Recommand Resources
 
 - [vis](http://visjs.org/)
 - [graphviz](http://graphviz.org/)
+- [nvd3](https://github.com/novus/nvd3)
 
 ## Cloud
 
