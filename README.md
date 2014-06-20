@@ -103,7 +103,7 @@ Recommand Resources
 
 - [docker](http://www.docker.com/)
 
-## Org
+## Standard
 
 - [MESA](http://www.mesa.org/)
 
