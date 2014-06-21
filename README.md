@@ -19,6 +19,7 @@ Recommand Resources
 - [NPM](https://www.npmjs.org/)
 - [socket.io](http://socket.io/)
 - [json-editor](https://github.com/jdorn/json-editor)
+- [datatables](http://datatables.net/)
 
 ## Python
 
