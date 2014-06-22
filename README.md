@@ -96,9 +96,11 @@ Recommand Resources
 
 ## Vis
 
+- [d3.js](http://d3js.org/)
 - [vis](http://visjs.org/)
 - [graphviz](http://graphviz.org/)
 - [nvd3](https://github.com/novus/nvd3)
+- [dc.js](http://dc-js.github.io/dc.js/)
 
 ## Cloud
 
