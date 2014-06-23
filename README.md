@@ -52,7 +52,7 @@ Recommand Resources
 ## Languages
 
 - [Javascript / Node.js](http://nodejs.org/)
-- [coffeescript](http://coffeescript.org/)
+- [CoffeeScript](http://coffeescript.org/)
 - [Python](https://www.python.org/)
 - [Lua](http://www.postgresql.org/)
 - [Golang](http://golang.org/project/)
@@ -101,6 +101,9 @@ Recommand Resources
 - [graphviz](http://graphviz.org/)
 - [nvd3](https://github.com/novus/nvd3)
 - [dc.js](http://dc-js.github.io/dc.js/)
+- [datavisualization](http://selection.datavisualization.ch/)
+- [jQuery.Gantt](http://taitems.github.io/jQuery.Gantt/)
+- [jointjs](http://jointjs.com/)
 
 ## Cloud
 
