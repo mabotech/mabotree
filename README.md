@@ -20,6 +20,7 @@ Recommand Resources
 - [socket.io](http://socket.io/)
 - [json-editor](https://github.com/jdorn/json-editor)
 - [datatables](http://datatables.net/)
+- [bluebird](https://github.com/petkaantonov/bluebird)
 
 ## Python
 
