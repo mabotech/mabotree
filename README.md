@@ -7,20 +7,28 @@ Resources, Education and Training stuff.
 Recommand Resources
 ===================
 
+## Mobile
+
+- [ionic](https://github.com/driftyco/ionic)
+
 ## Javascript
 
+- [NPM](https://www.npmjs.org/)
 - [AngularJS](https://angularjs.org/)
 - [AngularUI](http://angular-ui.github.io/)
 - [X-editable](http://vitalets.github.io/x-editable/)
 - [Angular-xeditable](https://github.com/vitalets/angular-xeditable)
-- [DEVOOPS](https://github.com/devoopsme/devoops)
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter)
-- [Koa](https://github.com/koajs/koa)
-- [NPM](https://www.npmjs.org/)
-- [socket.io](http://socket.io/)
 - [json-editor](https://github.com/jdorn/json-editor)
 - [datatables](http://datatables.net/)
-- [bluebird](https://github.com/petkaantonov/bluebird)
+- websockets [socket.io](http://socket.io/)
+- promises [bluebird](https://github.com/petkaantonov/bluebird)
+- web framework [Koa](https://github.com/koajs/koa)
+- job queue [Kue](https://github.com/LearnBoost/kue)
+- job scheduler []()
+
+## Admin
+- [DEVOOPS](https://github.com/devoopsme/devoops)
 
 ## Python
 
@@ -84,6 +92,9 @@ Recommand Resources
 - [Startup News](http://news.dbanotes.net/)
 - [Infoq](http://www.infoq.com/)
 - [MaNong](http://weekly.manong.io/)
+
+## List of Resources
+- [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
 
 ## App
 
