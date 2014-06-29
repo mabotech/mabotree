@@ -9,7 +9,7 @@ Recommand Resources
 
 ## Mobile
 
-- [ionic](https://github.com/driftyco/ionic)
+- [ionic](https://github.com/driftyco/ionic	)
 
 ## Javascript
 
@@ -38,12 +38,14 @@ Recommand Resources
 - [Flask](http://flask.pocoo.org/)
 - [Mako Template](http://www.makotemplates.org/)
 - [Requests](https://github.com/kennethreitz/requests)
-- [psycopg](http://initd.org/psycopg/)
 - [pygit2](https://github.com/libgit2/pygit2)
 
 ## Database
 
 - [PostgreSQL](http://www.postgresql.org/)
+- [pg](https://github.com/brianc/node-postgres)
+- [pg.js](https://github.com/brianc/node-postgres-pure)
+- [psycopg](http://initd.org/psycopg/)
 - [plv8](https://code.google.com/p/plv8js/)
 - [Redis](http://redis.io/)
 
