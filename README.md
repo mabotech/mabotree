@@ -39,6 +39,7 @@ Recommand Resources
 - [Mako Template](http://www.makotemplates.org/)
 - [Requests](https://github.com/kennethreitz/requests)
 - [pygit2](https://github.com/libgit2/pygit2)
+- rpc [zerorpc](http://zerorpc.dotcloud.com/)
 
 ## Database
 
