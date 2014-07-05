@@ -32,6 +32,7 @@ Recommand Resources
 
 ## Python
 
+- [Python Wheels](http://pythonwheels.com/)
 - [Python Warehouse](https://warehouse.python.org/)
 - [python libs for windows](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
 - [gevent](https://github.com/surfly/gevent)
@@ -40,6 +41,8 @@ Recommand Resources
 - [Requests](https://github.com/kennethreitz/requests)
 - [pygit2](https://github.com/libgit2/pygit2)
 - rpc [zerorpc](http://zerorpc.dotcloud.com/)
+- installer [pyinstaller](http://www.pyinstaller.org/)
+- NUI [kivy](http://kivy.org/)
 
 ## Database
 
@@ -98,6 +101,7 @@ Recommand Resources
 
 ## List of Resources
 - [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
+- [easy-python](http://easy-python.readthedocs.org/en/latest/libraries.html), [github](https://github.com/fengsp/easy-python)
 
 ## App
 
