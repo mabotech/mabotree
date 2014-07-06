@@ -29,6 +29,8 @@ Recommand Resources
 
 ## Admin
 - [DEVOOPS](https://github.com/devoopsme/devoops)
+- [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
+
 
 ## Python
 
@@ -43,10 +45,22 @@ Recommand Resources
 - rpc [zerorpc](http://zerorpc.dotcloud.com/)
 - installer [pyinstaller](http://www.pyinstaller.org/)
 - NUI [kivy](http://kivy.org/)
+- [easy-python](http://easy-python.readthedocs.org/en/latest/libraries.html), [github](https://github.com/fengsp/easy-python)
+- [awesome-python](https://github.com/vinta/awesome-python)
+
+## RPC
+
+- [zerorpc](http://zerorpc.dotcloud.com/)
+- [zerorpc-python](https://github.com/dotcloud/zerorpc-python)
+- [msgpack-rpc](https://github.com/msgpack-rpc/msgpack-rpc)
+- [mprpc](https://github.com/studio-ousia/mprpc)
+
+
 
 ## Database
 
 - [PostgreSQL](http://www.postgresql.org/)
+- Query Builder [knex](http://knexjs.org/)
 - [pg](https://github.com/brianc/node-postgres)
 - [pg.js](https://github.com/brianc/node-postgres-pure)
 - [psycopg](http://initd.org/psycopg/)
@@ -79,7 +93,7 @@ Recommand Resources
 
 - [ng-inspector](http://ng-inspector.org/)
 
-## IoT
+##  M2M & IoT
 
 - [Node OPCUA](https://github.com/node-opcua/node-opcua)
 - [OpenOPC](http://openopc.sourceforge.net/)
@@ -90,7 +104,6 @@ Recommand Resources
 
 - [Font-Awesome | FA](http://fontawesome.io/icons/)
 
-
 ## Tech News
 
 - [github trending](https://github.com/trending)
@@ -98,10 +111,6 @@ Recommand Resources
 - [Startup News](http://news.dbanotes.net/)
 - [Infoq](http://www.infoq.com/)
 - [MaNong](http://weekly.manong.io/)
-
-## List of Resources
-- [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
-- [easy-python](http://easy-python.readthedocs.org/en/latest/libraries.html), [github](https://github.com/fengsp/easy-python)
 
 ## App
 
@@ -123,6 +132,7 @@ Recommand Resources
 - [datavisualization](http://selection.datavisualization.ch/)
 - [jQuery.Gantt](http://taitems.github.io/jQuery.Gantt/)
 - [jointjs](http://jointjs.com/)
+- [dimple](https://github.com/PMSI-AlignAlytics/dimple)
 
 ## Cloud
 
