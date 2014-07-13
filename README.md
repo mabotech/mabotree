@@ -7,9 +7,23 @@ Resources, Education and Training stuff.
 Recommand Resources
 ===================
 
-## Mobile
+## Tech News
 
-- [ionic](https://github.com/driftyco/ionic	)
+- [github trending](https://github.com/trending)
+- [oschina](http://www.oschina.net/)
+- [Startup News](http://news.dbanotes.net/)
+- [Infoq](http://www.infoq.com/)
+- [MaNong](http://weekly.manong.io/)
+
+## Languages
+
+- [Javascript / Node.js](http://nodejs.org/)
+- [CoffeeScript](http://coffeescript.org/)
+- [Python](https://www.python.org/)
+- [Lua](http://www.postgresql.org/)
+- [Golang](http://golang.org/project/)
+- [Erlang](http://www.erlang.org/)
+- [R](http://www.r-project.org/)
 
 ## Javascript
 
@@ -27,10 +41,6 @@ Recommand Resources
 - job queue [Kue](https://github.com/LearnBoost/kue)
 - job scheduler []()
 
-## Admin
-- [DEVOOPS](https://github.com/devoopsme/devoops)
-- [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
-
 
 ## Python
 
@@ -47,6 +57,27 @@ Recommand Resources
 - NUI [kivy](http://kivy.org/)
 - [easy-python](http://easy-python.readthedocs.org/en/latest/libraries.html), [github](https://github.com/fengsp/easy-python)
 - [awesome-python](https://github.com/vinta/awesome-python)
+
+
+## Go
+
+- [github go](https://github.com/trending?l=go)
+- [awesome-go](https://github.com/avelino/awesome-go)
+
+## Erlang
+
+- [github Erlang](https://github.com/trending?l=erlang)
+- [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss)
+
+
+## R
+
+- [github R](https://github.com/trending?l=r)
+- [Rook](https://github.com/jeffreyhorner/Rook)
+- [ggplot2](https://github.com/hadley/ggplot2)
+- [RJSONIO](https://github.com/duncantl/RJSONIO)
+- [RStudio](http://www.rstudio.com/)
+
 
 ## RPC
 
@@ -78,39 +109,6 @@ Recommand Resources
 - [nodemon](http://nodemon.io/)
 - [phantomjs](https://github.com/ariya/phantomjs)
 
-## Languages
-
-- [Javascript / Node.js](http://nodejs.org/)
-- [CoffeeScript](http://coffeescript.org/)
-- [Python](https://www.python.org/)
-- [Lua](http://www.postgresql.org/)
-- [Golang](http://golang.org/project/)
-- [Erlang](http://www.erlang.org/)
-- [R](http://www.r-project.org/)
-
-
-## Angular Resources
-
-- [ng-inspector](http://ng-inspector.org/)
-
-##  M2M & IoT
-
-- [Node OPCUA](https://github.com/node-opcua/node-opcua)
-- [OpenOPC](http://openopc.sourceforge.net/)
-- [pyserial](http://pyserial.sourceforge.net/)
-
-
-##  Iconic font
-
-- [Font-Awesome | FA](http://fontawesome.io/icons/)
-
-## Tech News
-
-- [github trending](https://github.com/trending)
-- [oschina](http://www.oschina.net/)
-- [Startup News](http://news.dbanotes.net/)
-- [Infoq](http://www.infoq.com/)
-- [MaNong](http://weekly.manong.io/)
 
 ## App
 
@@ -134,9 +132,33 @@ Recommand Resources
 - [jointjs](http://jointjs.com/)
 - [dimple](https://github.com/PMSI-AlignAlytics/dimple)
 
+## Angular Resources
+
+- [ng-inspector](http://ng-inspector.org/)
+
+##  M2M & IoT
+
+- [Node OPCUA](https://github.com/node-opcua/node-opcua)
+- [OpenOPC](http://openopc.sourceforge.net/)
+- [pyserial](http://pyserial.sourceforge.net/)
+
+## Mobile
+
+- [ionic](https://github.com/driftyco/ionic	)
+
+##  Iconic font
+
+- [Font-Awesome | FA](http://fontawesome.io/icons/)
+
+
 ## Cloud
 
 - [docker](http://www.docker.com/)
+
+## Admin
+- [DEVOOPS](https://github.com/devoopsme/devoops)
+- [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
+
 
 ## Standard
 
