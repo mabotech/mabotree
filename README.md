@@ -40,6 +40,7 @@ Recommand Resources
 - web framework [Koa](https://github.com/koajs/koa)
 - job queue [Kue](https://github.com/LearnBoost/kue)
 - job scheduler []()
+- [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
 
 
 ## Python
@@ -91,11 +92,13 @@ Recommand Resources
 ## Database
 
 - [PostgreSQL](http://www.postgresql.org/)
+- [pgxn](http://pgxn.org/)
 - Query Builder [knex](http://knexjs.org/)
 - [pg](https://github.com/brianc/node-postgres)
 - [pg.js](https://github.com/brianc/node-postgres-pure)
 - [psycopg](http://initd.org/psycopg/)
 - [plv8](https://code.google.com/p/plv8js/)
+- [plr](https://github.com/jconway/plr)
 - [Redis](http://redis.io/)
 
 ## Tools
