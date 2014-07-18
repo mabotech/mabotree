@@ -7,6 +7,19 @@ Resources, Education and Training stuff.
 Recommand Resources
 ===================
 
+## Vis
+
+- [d3.js](http://d3js.org/)
+- timeline,network [vis](http://visjs.org/)
+- [graphviz](http://graphviz.org/)
+- [nvd3](https://github.com/novus/nvd3)
+- [dc.js](http://dc-js.github.io/dc.js/)
+- [datavisualization](http://selection.datavisualization.ch/)
+- [jQuery.Gantt](http://taitems.github.io/jQuery.Gantt/)
+- [jointjs](http://jointjs.com/)
+- [dimplejs](http://dimplejs.org/)
+- [dimple github](https://github.com/PMSI-AlignAlytics/dimple)
+
 ## Tech News
 
 - [github trending](https://github.com/trending)
@@ -27,6 +40,7 @@ Recommand Resources
 
 ## Javascript
 
+- [jsdb](http://www.jsdb.io/)
 - [NPM](https://www.npmjs.org/)
 - [AngularJS](https://angularjs.org/)
 - [AngularUI](http://angular-ui.github.io/)
@@ -123,17 +137,7 @@ Recommand Resources
 - [REST APIs](http://www.espressologic.com/)
 - [heka](https://github.com/mozilla-services/heka)
 
-## Vis
 
-- [d3.js](http://d3js.org/)
-- [vis](http://visjs.org/)
-- [graphviz](http://graphviz.org/)
-- [nvd3](https://github.com/novus/nvd3)
-- [dc.js](http://dc-js.github.io/dc.js/)
-- [datavisualization](http://selection.datavisualization.ch/)
-- [jQuery.Gantt](http://taitems.github.io/jQuery.Gantt/)
-- [jointjs](http://jointjs.com/)
-- [dimple](https://github.com/PMSI-AlignAlytics/dimple)
 
 ## Angular Resources
 
