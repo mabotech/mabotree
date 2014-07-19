@@ -78,6 +78,8 @@ Recommand Resources
 
 - [github go](https://github.com/trending?l=go)
 - [awesome-go](https://github.com/avelino/awesome-go)
+- [confd](https://github.com/kelseyhightower/confd)
+- [packetbeat](http://packetbeat.com/)
 
 ## Erlang
 
@@ -114,20 +116,29 @@ Recommand Resources
 - [plv8](https://code.google.com/p/plv8js/)
 - [plr](https://github.com/jconway/plr)
 - [Redis](http://redis.io/)
+- go [influxdb](http://influxdb.com/)
+
+
 
 ## Tools
 
 - [Git](http://git-scm.com/)
 - [SciTE](http://www.scintilla.org/ "SciTE")
 - [SciTE Properties by Mabo](https://github.com/majj/scite "SciTE properties")
-- [streamtools](https://github.com/nytlabs/streamtools)
+- go [serf](http://www.serfdom.io/)
+- go [streamtools](https://github.com/nytlabs/streamtools)
+- dashboard [grafana](http://grafana.org/)
 - [NSSM](http://nssm.cc/)
 - [Wireshark](http://www.wireshark.org/)
 - [nodemon](http://nodemon.io/)
 - [phantomjs](https://github.com/ariya/phantomjs)
 
+## Components
+- go [heka](https://github.com/mozilla-services/heka)
 
-## App
+
+
+## Apps
 
 - [nginx](http://nginx.org/)
 - [uwsgi](https://github.com/unbit/uwsgi)
@@ -135,7 +146,6 @@ Recommand Resources
 - [nodered](http://nodered.org/)
 - [noflo](http://noflojs.org/)
 - [REST APIs](http://www.espressologic.com/)
-- [heka](https://github.com/mozilla-services/heka)
 
 
 
