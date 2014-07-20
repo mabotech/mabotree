@@ -19,6 +19,7 @@ Recommand Resources
 - [jointjs](http://jointjs.com/)
 - [dimplejs](http://dimplejs.org/)
 - [dimple github](https://github.com/PMSI-AlignAlytics/dimple)
+- dashboard [grafana](http://grafana.org/)
 
 ## Tech News
 
@@ -117,6 +118,7 @@ Recommand Resources
 - [plr](https://github.com/jconway/plr)
 - [Redis](http://redis.io/)
 - go [influxdb](http://influxdb.com/)
+- [leveldb](http://leveldb.org/)
 
 
 
