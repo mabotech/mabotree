@@ -81,12 +81,15 @@ Recommand Resources
 - [awesome-go](https://github.com/avelino/awesome-go)
 - [confd](https://github.com/kelseyhightower/confd)
 - [packetbeat](http://packetbeat.com/)
+- [gowalker](https://gowalker.org/)
 
 ## Erlang
 
 - [github Erlang](https://github.com/trending?l=erlang)
 - [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss)
-
+- [rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server)
+- [folsom](https://github.com/boundary/folsom)
+- [tsung](https://github.com/processone/tsung)
 
 ## R
 
