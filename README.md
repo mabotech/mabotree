@@ -29,6 +29,10 @@ Recommand Resources
 - [Infoq](http://www.infoq.com/)
 - [MaNong](http://weekly.manong.io/)
 
+## Design
+
+- [Software design patterns](http://en.wikipedia.org/wiki/Category:Software_design_patterns)
+
 ## Languages
 
 - [Javascript / Node.js](http://nodejs.org/)
@@ -62,7 +66,7 @@ Recommand Resources
 
 - [Python Wheels](http://pythonwheels.com/)
 - [Python Warehouse](https://warehouse.python.org/)
-- [python libs for windows](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+- for windows [python libs](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
 - [gevent](https://github.com/surfly/gevent)
 - [Flask](http://flask.pocoo.org/)
 - [Mako Template](http://www.makotemplates.org/)
@@ -75,6 +79,7 @@ Recommand Resources
 - [awesome-python](https://github.com/vinta/awesome-python)
 
 
+
 ## Go
 
 - [github go](https://github.com/trending?l=go)
@@ -82,6 +87,8 @@ Recommand Resources
 - [confd](https://github.com/kelseyhightower/confd)
 - [packetbeat](http://packetbeat.com/)
 - [gowalker](https://gowalker.org/)
+- web framework [martini](https://github.com/go-martini/martini)
+- [confd](https://github.com/kelseyhightower/confd)
 
 ## Erlang
 
@@ -99,15 +106,12 @@ Recommand Resources
 - [RJSONIO](https://github.com/duncantl/RJSONIO)
 - [RStudio](http://www.rstudio.com/)
 
-
 ## RPC
 
 - [zerorpc](http://zerorpc.dotcloud.com/)
 - [zerorpc-python](https://github.com/dotcloud/zerorpc-python)
 - [msgpack-rpc](https://github.com/msgpack-rpc/msgpack-rpc)
 - [mprpc](https://github.com/studio-ousia/mprpc)
-
-
 
 ## Database
 
@@ -124,7 +128,6 @@ Recommand Resources
 - [leveldb](http://leveldb.org/)
 
 
-
 ## Tools
 
 - [Git](http://git-scm.com/)
@@ -137,11 +140,21 @@ Recommand Resources
 - [Wireshark](http://www.wireshark.org/)
 - [nodemon](http://nodemon.io/)
 - [phantomjs](https://github.com/ariya/phantomjs)
+- [Ansible Github](https://github.com/ansible/ansible)
+- [Ansible](http://www.ansible.com/)
 
-## Components
-- go [heka](https://github.com/mozilla-services/heka)
 
 
+## Data Acquisition
+- go, data collection and process [heka](https://github.com/mozilla-services/heka)
+- heka doc [http://hekad.readthedocs.org/](http://hekad.readthedocs.org/)
+
+## Queue
+
+- go [nsq](https://github.com/bitly/nsq)
+- nsq [pynsq](https://github.com/bitly/pynsq)
+- nsq [nsq for js](https://github.com/dudleycarr/nsqjs)
+- python [celery](http://www.celeryproject.org/)
 
 ## Apps
 
@@ -151,8 +164,6 @@ Recommand Resources
 - [nodered](http://nodered.org/)
 - [noflo](http://noflojs.org/)
 - [REST APIs](http://www.espressologic.com/)
-
-
 
 ## Angular Resources
 
