@@ -89,12 +89,13 @@ Recommand Resources
 - [gowalker](https://gowalker.org/)
 - web framework [martini](https://github.com/go-martini/martini)
 - [confd](https://github.com/kelseyhightower/confd)
+- [toml](https://github.com/toml-lang/toml)
 
 ## Erlang
 
 - [github Erlang](https://github.com/trending?l=erlang)
-- [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss)
-- [rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server)
+- web framework [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss)
+- mq [rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server)
 - [folsom](https://github.com/boundary/folsom)
 - [tsung](https://github.com/processone/tsung)
 
