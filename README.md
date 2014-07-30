@@ -143,6 +143,9 @@ Recommand Resources
 - [phantomjs](https://github.com/ariya/phantomjs)
 - [Ansible Github](https://github.com/ansible/ansible)
 - [Ansible](http://www.ansible.com/)
+- [syncthing](https://github.com/calmh/syncthing)
+- [serf github](https://github.com/hashicorp/serf)
+- [serf](http://www.serfdom.io/)
 
 
 
