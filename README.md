@@ -91,6 +91,10 @@ Recommand Resources
 - [confd](https://github.com/kelseyhightower/confd)
 - [toml](https://github.com/toml-lang/toml)
 
+## Books
+
+- golang [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+
 ## Erlang
 
 - [github Erlang](https://github.com/trending?l=erlang)
