@@ -24,6 +24,7 @@ Recommand Resources
 ## Tech News
 
 - [github trending](https://github.com/trending)
+- [stackoverflow](http://stackoverflow.com/)
 - [oschina](http://www.oschina.net/)
 - [Startup News](http://news.dbanotes.net/)
 - [Infoq](http://www.infoq.com/)
@@ -60,6 +61,7 @@ Recommand Resources
 - job queue [Kue](https://github.com/LearnBoost/kue)
 - job scheduler []()
 - [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
+- [nodejs modules](https://nodejsmodules.org/)
 
 
 ## Python
