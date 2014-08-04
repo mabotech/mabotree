@@ -93,6 +93,7 @@ Recommand Resources
 - [confd](https://github.com/kelseyhightower/confd)
 - [toml](https://github.com/toml-lang/toml)
 - web [martini](https://github.com/go-martini/martini)
+- [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
 
 ## Books
 
