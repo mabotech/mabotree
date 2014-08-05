@@ -7,6 +7,17 @@ Resources, Education and Training stuff.
 Recommand Resources
 ===================
 
+## Tech News
+
+- [github trending](https://github.com/trending)
+- [stackoverflow](http://stackoverflow.com/)
+- [oschina](http://www.oschina.net/)
+- [Startup News](http://news.dbanotes.net/)
+- [Infoq](http://www.infoq.com/)
+- [MaNong](http://weekly.manong.io/)
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+
+
 ## Vis
 
 - [d3.js](http://d3js.org/)
@@ -21,14 +32,6 @@ Recommand Resources
 - [dimple github](https://github.com/PMSI-AlignAlytics/dimple)
 - dashboard [grafana](http://grafana.org/)
 
-## Tech News
-
-- [github trending](https://github.com/trending)
-- [stackoverflow](http://stackoverflow.com/)
-- [oschina](http://www.oschina.net/)
-- [Startup News](http://news.dbanotes.net/)
-- [Infoq](http://www.infoq.com/)
-- [MaNong](http://weekly.manong.io/)
 
 ## Design
 
@@ -106,6 +109,7 @@ Recommand Resources
 - mq [rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server)
 - [folsom](https://github.com/boundary/folsom)
 - [tsung](https://github.com/processone/tsung)
+- [distel](https://github.com/massemanet/distel)
 
 ## R
 
