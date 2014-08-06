@@ -4,6 +4,9 @@ Mabotree
 Resources, Education and Training stuff.
 
 
+[emacs](https://github.com/mabotech/mabotree/blob/master/emacs_sc.md)
+
+
 Recommand Resources
 ===================
 
