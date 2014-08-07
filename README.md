@@ -187,6 +187,7 @@ Recommand Resources
 ## Angular Resources
 
 - [ng-inspector](http://ng-inspector.org/)
+- [angularjs-styleguide](https://github.com/johnpapa/angularjs-styleguide)
 
 ##  M2M & IoT
 

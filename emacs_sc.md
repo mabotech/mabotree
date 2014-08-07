@@ -11,3 +11,4 @@
 
 
 - `C-x o` : other window
+- `C-c C-k` compile erlang
