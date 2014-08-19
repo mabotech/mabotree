@@ -98,11 +98,14 @@ Recommand Resources
 - [confd](https://github.com/kelseyhightower/confd)
 - [consul](http://www.consul.io/)
 - [etcd](https://github.com/coreos/etcd)
+- go javscript [otto](https://github.com/robertkrimen/otto)
 - [packetbeat](http://packetbeat.com/)
 - [gowalker](https://gowalker.org/)
 - web framework [martini](https://github.com/go-martini/martini)
 - [toml](https://github.com/toml-lang/toml)
 - web [martini](https://github.com/go-martini/martini)
+- cloud [circuit](https://github.com/gocircuit/circuit)
+- http proxy [vulcand](https://github.com/mailgun/vulcand)
 - [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
 
 ## Books
@@ -144,9 +147,9 @@ Recommand Resources
 - [plv8](https://code.google.com/p/plv8js/)
 - [plr](https://github.com/jconway/plr)
 - [Redis](http://redis.io/)
-- go [influxdb](http://influxdb.com/)
 - [leveldb](http://leveldb.org/)
-
+- go [influxdb](http://influxdb.com/)
+- [influxdb-python](https://github.com/influxdb/influxdb-python)
 
 ## Tools
 
@@ -164,8 +167,7 @@ Recommand Resources
 - [syncthing](https://github.com/calmh/syncthing)
 - [serf github](https://github.com/hashicorp/serf)
 - go [serf](http://www.serfdom.io/)
-
-
+- [lantern](https://www.getlantern.org)
 
 ## Data Acquisition
 - go, data collection and process [heka](https://github.com/mozilla-services/heka)
