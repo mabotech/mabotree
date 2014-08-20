@@ -36,6 +36,7 @@ Recommand Resources
 - [dimple github](https://github.com/PMSI-AlignAlytics/dimple)
 - dashboard [grafana](http://grafana.org/)
 - map[leaflet](http://leafletjs.com/)
+- kanban [my-personal-kanban](https://github.com/greggigon/my-personal-kanban)
 
 
 ## Design
@@ -87,6 +88,7 @@ Recommand Resources
 - NUI [kivy](http://kivy.org/)
 - [easy-python](http://easy-python.readthedocs.org/en/latest/libraries.html), [github](https://github.com/fengsp/easy-python)
 - [awesome-python](https://github.com/vinta/awesome-python)
+- Excel [xlrd](https://github.com/python-excel/xlrd)
 
 
 
