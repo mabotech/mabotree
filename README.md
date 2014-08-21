@@ -3,9 +3,10 @@ Mabotree
 
 Resources, Education and Training stuff.
 
-
-[emacs](https://github.com/mabotech/mabotree/blob/master/emacs_sc.md)
-
+- [Home](https://github.com/mabotech/mabotree/blob/master/README.md)
+- [emacs](https://github.com/mabotech/mabotree/blob/master/emacs_sc.md)
+- [js](https://github.com/mabotech/mabotree/blob/master/js.md)
+- [vis](https://github.com/mabotech/mabotree/blob/master/vis.md)
 
 Recommand Resources
 ===================
