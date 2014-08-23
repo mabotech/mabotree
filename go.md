@@ -18,22 +18,33 @@
 - http proxy [vulcand](https://github.com/mailgun/vulcand)
 - lua [golua](https://github.com/aarzilli/golua)
 - [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
+
+
+## Cloud
 - [serf](http://www.serfdom.io/)
-- [streamtools](https://github.com/nytlabs/streamtools)
+- [circuit](https://github.com/gocircuit/circuit)
+- [etcd](https://github.com/coreos/etcd)
+- [consul](http://www.consul.io/)
+- [confd](https://github.com/kelseyhightower/confd)
+
+
+## Web
+- [martini](https://github.com/go-martini/martini)
+
+
+## Message
+- [nsq](https://github.com/bitly/nsq)
+
 
 ## Data Acquisition
 - data collection and process [heka](https://github.com/mozilla-services/heka)
 - heka doc [http://hekad.readthedocs.org/](http://hekad.readthedocs.org/)
 
 
+## Data Process
+- [streamtools](https://github.com/nytlabs/streamtools)
+
+
 ## Database
 
 - [influxdb](http://influxdb.com/)
-
-## Web
-- web framework [martini](https://github.com/go-martini/martini)
-- - [etcd](https://github.com/coreos/etcd)
-- [consul](http://www.consul.io/)
-- [confd](https://github.com/kelseyhightower/confd)
-- web [martini](https://github.com/go-martini/martini)
-- cloud [circuit](https://github.com/gocircuit/circuit)

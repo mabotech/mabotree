@@ -20,6 +20,11 @@
 - [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
 - [nodejs modules](https://nodejsmodules.org/)
 
+## Lib
+
+- [require](http://requirejs.org/)
+- [underscore](http://underscorejs.org/)
+- [lodash](http://lodash.com/)
 
 ## Browser
 
@@ -37,3 +42,10 @@
 
 - [ng-inspector](http://ng-inspector.org/)
 - [angularjs-styleguide](https://github.com/johnpapa/angularjs-styleguide)
+
+
+## Tools
+
+- [gulp](http://gulpjs.com/)
+- [phantomjs](https://github.com/ariya/phantomjs)
+- [nodemon](http://nodemon.io/)

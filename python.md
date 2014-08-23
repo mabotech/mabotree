@@ -30,3 +30,6 @@
 
 ## Data
 - Excel [xlrd](https://github.com/python-excel/xlrd)
+
+## Report
+- [python-docx](https://github.com/python-openxml/python-docx)
