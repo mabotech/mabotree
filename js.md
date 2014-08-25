@@ -20,11 +20,20 @@
 - [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
 - [nodejs modules](https://nodejsmodules.org/)
 
+## Form
+- [json-editor](https://github.com/jdorn/json-editor)
+- [forms-angular](https://github.com/forms-angular/forms-angular)
+- [angular-formly](http://nimbly.github.io/angular-formly/)
+- repo [angular-formly](https://github.com/nimbly/angular-formly)
+- [angular-form-builder](http://kelp404.github.io/angular-form-builder/)
+
+
 ## Lib
 
 - [require](http://requirejs.org/)
 - [underscore](http://underscorejs.org/)
 - [lodash](http://lodash.com/)
+- [socket.io](http://socket.io/)
 
 ## Browser
 

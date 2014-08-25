@@ -19,16 +19,39 @@
 - [angular-nvd3](http://krispo.github.io/angular-nvd3/)
 - [dc.js](http://dc-js.github.io/dc.js/)
 - [datavisualization](http://selection.datavisualization.ch/)
-- flow [jointjs](http://jointjs.com/)
 - chart [dimplejs](http://dimplejs.org/)
 - [dimple github](https://github.com/PMSI-AlignAlytics/dimple)
+
+## Flow
+- [jointjs](http://jointjs.com/)
+
+## Admin
+- [DEVOOPS](https://github.com/devoopsme/devoops)
+- [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
+
+## Calendar
+
+- [fullcalendar](http://arshaw.com/fullcalendar/)
+
+
+## Menu
+
+
+## Table
+- [datatables](http://datatables.net/)
+
+
+## Grid
+- [angular-deckgrid](https://github.com/akoenig/angular-deckgrid),  masonry-like grid for AngularJS
 
 
 ## Dashboard
 - [grafana](http://grafana.org/)
 
+
 ## Kanban
 - [my-personal-kanban](https://github.com/greggigon/my-personal-kanban)
+
 
 ## Gantt
 - [jQuery.Gantt](http://taitems.github.io/jQuery.Gantt/)
