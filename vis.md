@@ -9,10 +9,14 @@
 
 # Vis
 
+- [colors](http://clrs.cc/)
+- [Flat-UI](http://designmodo.github.io/Flat-UI/)
+
 
 ## Chart
-
 - [d3.js](http://d3js.org/)
+- [flot](https://github.com/flot/flot)
+- [angular-flot](https://github.com/develersrl/angular-flot)
 - timeline, network [vis](http://visjs.org/)
 - [graphviz](http://graphviz.org/)
 - [nvd3](https://github.com/novus/nvd3)
@@ -25,16 +29,26 @@
 ## Flow
 - [jointjs](http://jointjs.com/)
 
+## Menu
+- [bootstrap](https://github.com/twbs/bootstrap)
+- [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap)
+- [foundation](https://github.com/zurb/foundation)
+- [Buttons](http://alexwolfe.github.io/Buttons/)
+- [animate](http://daneden.github.io/animate.css/)
+
+## Icons
+- [ionicons](http://ionicons.com/)
+
 ## Admin
 - [DEVOOPS](https://github.com/devoopsme/devoops)
 - [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
 
 ## Calendar
-
 - [fullcalendar](http://arshaw.com/fullcalendar/)
 
 
-## Menu
+## Tree
+- [angular-bootstrap-nav-tree](https://github.com/nickperkinslondon/angular-bootstrap-nav-tree)
 
 
 ## Table
