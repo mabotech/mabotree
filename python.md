@@ -24,6 +24,9 @@
 - [Mako Template](http://www.makotemplates.org/)
 - [Requests](https://github.com/kennethreitz/requests)
 
+## Hook
+- pyHook‑1.5.1.win‑amd64‑py2.7.exe [pyHook](http://www.lfd.uci.edu/~gohlke/pythonlibs/) 
+- [pyHook](pyhook.wiki.sourceforge.net/) 
 
 ## Tools
 - installer [pyinstaller](http://www.pyinstaller.org/)
