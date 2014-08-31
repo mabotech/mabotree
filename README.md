@@ -8,6 +8,7 @@ Resources, Education and Training stuff.
 | [JavaScript](https://github.com/mabotech/mabotree/blob/master/js.md)
 | [Python](https://github.com/mabotech/mabotree/blob/master/python.md)
 | [Vis](https://github.com/mabotech/mabotree/blob/master/vis.md)
+| [PostgreSQL](https://github.com/mabotech/mabotree/blob/master/pg.md)
 | [Emacs](https://github.com/mabotech/mabotree/blob/master/emacs_sc.md)
 
 Recommand Resources
@@ -74,14 +75,6 @@ Recommand Resources
 ## Database
 
 - [PostgreSQL](http://www.postgresql.org/)
-- [pgxn](http://pgxn.org/)
-- Query Builder [knex](http://knexjs.org/)
-- [pg](https://github.com/brianc/node-postgres)
-- [pg.js](https://github.com/brianc/node-postgres-pure)
-- [psycopg](http://initd.org/psycopg/)
-- [plv8](https://code.google.com/p/plv8js/)
-- github [plr](https://github.com/jconway/plr)
-- [plr](http://www.joeconway.com/plr/)
 - [Redis](http://redis.io/)
 - [leveldb](http://leveldb.org/)
 - [influxdb](http://influxdb.com/)
