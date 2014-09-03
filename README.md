@@ -67,10 +67,11 @@ Recommand Resources
 
 ## RPC
 
-- [zerorpc](http://zerorpc.dotcloud.com/)
-- [zerorpc-python](https://github.com/dotcloud/zerorpc-python)
-- [msgpack-rpc](https://github.com/msgpack-rpc/msgpack-rpc)
-- [mprpc](https://github.com/studio-ousia/mprpc)
+- python [zerorpc](http://zerorpc.dotcloud.com/)
+- python [zerorpc-python](https://github.com/dotcloud/zerorpc-python)
+- python [msgpack-rpc](https://github.com/msgpack-rpc/msgpack-rpc)
+- python [mprpc](https://github.com/studio-ousia/mprpc)
+- go [polyglot](https://github.com/sausheong/polyglot)
 
 ## Database
 

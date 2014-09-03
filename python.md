@@ -13,6 +13,7 @@
 - [Python Warehouse](https://warehouse.python.org/)
 - for windows [python libs](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
 - [gevent](https://github.com/surfly/gevent)
+- [gevent](http://gevent.org/)
 - [pygit2](https://github.com/libgit2/pygit2)
 - rpc [zerorpc](http://zerorpc.dotcloud.com/)
 - NUI [kivy](http://kivy.org/)
@@ -35,4 +36,4 @@
 - Excel [xlrd](https://github.com/python-excel/xlrd)
 
 ## Report
-- [python-docx](https://github.com/python-openxml/python-docx)
+- Word [python-docx](https://github.com/python-openxml/python-docx)
