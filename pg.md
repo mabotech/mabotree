@@ -18,6 +18,11 @@
 - [pg.js](https://github.com/brianc/node-postgres-pure)
 - [psycopg](http://initd.org/psycopg/)
 
+## fdw
+- oracle [oracle_fdw](https://github.com/laurenz/oracle_fdw)
+- sql server[tds_fdw](https://github.com/GeoffMontee/tds_fdw)
+- redis [redis_fdw](https://github.com/pg-redis-fdw/redis_fdw)
+
 ## PL
 - JavaScript [plv8](https://code.google.com/p/plv8js/)
 - Python [plpython](http://www.postgresql.org/docs/current/interactive/plpython.html)
