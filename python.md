@@ -19,11 +19,16 @@
 - NUI [kivy](http://kivy.org/)
 - [easy-python](http://easy-python.readthedocs.org/en/latest/libraries.html), [github](https://github.com/fengsp/easy-python)
 - [awesome-python](https://github.com/vinta/awesome-python)
+- activestate [recipes](http://code.activestate.com/recipes/langs/python/)
 
 ## Web
 - [Flask](http://flask.pocoo.org/)
 - [Mako Template](http://www.makotemplates.org/)
 - [Requests](https://github.com/kennethreitz/requests)
+
+## Email
+
+- [recipes](http://code.activestate.com/recipes/473810/)
 
 ## Hook
 - pyHook‑1.5.1.win‑amd64‑py2.7.exe [pyHook](http://www.lfd.uci.edu/~gohlke/pythonlibs/) 
