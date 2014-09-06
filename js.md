@@ -8,6 +8,8 @@
 
 # Javascript & Node
 
+Web & Node Components
+
 ## Node
 
 - [jsdb](http://www.jsdb.io/)
@@ -26,6 +28,8 @@
 - [angular-formly](http://nimbly.github.io/angular-formly/)
 - repo [angular-formly](https://github.com/nimbly/angular-formly)
 - [angular-form-builder](http://kelp404.github.io/angular-form-builder/)
+- [angular-schema-form](https://github.com/Textalk/angular-schema-form)
+- [tv4](https://github.com/geraintluff/tv4)
 
 
 ## Lib
@@ -46,6 +50,9 @@
 - [Angular-xeditable](https://github.com/vitalets/angular-xeditable)
 - [angular-form-builder](https://github.com/kelp404/angular-form-builder)
 
+## Application
+
+- [tint2](https://github.com/trueinteractions/tint2)
 
 ## Angular Resources
 
