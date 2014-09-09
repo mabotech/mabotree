@@ -115,9 +115,10 @@ Recommand Resources
 
 ##  M2M & IoT
 
-- [Node OPCUA](https://github.com/node-opcua/node-opcua)
-- [OpenOPC](http://openopc.sourceforge.net/)
-- [pyserial](http://pyserial.sourceforge.net/)
+- Node [Node OPCUA](https://github.com/node-opcua/node-opcua)
+- Python [OpenOPC](http://openopc.sourceforge.net/)
+- Python [pyserial](http://pyserial.sourceforge.net/)
+- Node [node-serialport](https://github.com/voodootikigod/node-serialport)
 
 ## Mobile
 
