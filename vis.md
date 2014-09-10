@@ -17,7 +17,8 @@
 ## Chart
 - [d3.js](http://d3js.org/)
 - [flot](https://github.com/flot/flot)
-- [angular-flot](https://github.com/develersrl/angular-flot)
+- [angular-flot](https://github.com/d
+- evelersrl/angular-flot)
 - timeline, network [vis](http://visjs.org/)
 - [graphviz](http://graphviz.org/)
 - [nvd3](https://github.com/novus/nvd3)
@@ -26,6 +27,7 @@
 - [datavisualization](http://selection.datavisualization.ch/)
 - chart [dimplejs](http://dimplejs.org/)
 - [dimple github](https://github.com/PMSI-AlignAlytics/dimple)
+- real-time [epoch](http://fastly.github.io/epoch/)
 
 ## Flow
 - [jointjs](http://jointjs.com/)
@@ -53,7 +55,11 @@
 
 
 ## Table
+
+- [sensei-grid](https://github.com/datazenit/sensei-grid)
 - [datatables](http://datatables.net/)
+- [ng-grid](http://angular-ui.github.io/ng-grid/)
+
 
 
 ## Grid
