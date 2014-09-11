@@ -31,6 +31,18 @@ Web & Node Components
 - [angular-schema-form](https://github.com/Textalk/angular-schema-form)
 - [tv4](https://github.com/geraintluff/tv4)
 
+## Editor
+
+- [ace](http://ajaxorg.github.io/ace/)
+- [angular-ui-ace](https://github.com/angular-ui/ui-ace)
+
+
+## Picker
+
+- datepicker [pickadate](https://github.com/amsul/pickadate.js/)
+- colorpicker [spectrum](http://bgrins.github.io/spectrum/)
+
+
 ## Table
 
 - [sensei-grid](https://github.com/datazenit/sensei-grid)
@@ -61,12 +73,15 @@ Web & Node Components
 
 ## Angular Resources
 
+- [angular-seed](https://github.com/angular/angular-seed)
 - [ng-inspector](http://ng-inspector.org/)
 - [angularjs-styleguide](https://github.com/johnpapa/angularjs-styleguide)
+- [angular-data](https://github.com/jmdobry/angular-data)
 
 
 ## Tools
 
+- package manager [bower](http://bower.io/)
 - [gulp](http://gulpjs.com/)
 - [phantomjs](https://github.com/ariya/phantomjs)
 - [nodemon](http://nodemon.io/)
