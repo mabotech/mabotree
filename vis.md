@@ -44,7 +44,11 @@
 
 ## Admin
 - [DEVOOPS](https://github.com/devoopsme/devoops)
-- [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
+- [devoops](http://devoops.me/)
+- [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
+- [sb-admin](http://startbootstrap.com/template-overviews/sb-admin/)
+- [sb-admin-2](http://startbootstrap.com/template-overviews/sb-admin-2/)
+
 
 ## Calendar
 - [fullcalendar](http://arshaw.com/fullcalendar/)
@@ -80,3 +84,7 @@
 
 ## Map
 - [leaflet](http://leafletjs.com/)
+
+## Video
+
+- [accessible-html5-video-player](https://github.com/paypal/accessible-html5-video-player)

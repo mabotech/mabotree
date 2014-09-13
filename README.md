@@ -96,6 +96,8 @@ Recommand Resources
 - go [syncthing](https://github.com/calmh/syncthing)
 - go [serf github](https://github.com/hashicorp/serf)
 - [lantern](https://www.getlantern.org)
+- [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
+
 
 ## Queue
 

@@ -34,6 +34,7 @@ Web & Node Components
 ## Editor
 
 - [ace](http://ajaxorg.github.io/ace/)
+- [ace](https://github.com/ajaxorg/ace)
 - [angular-ui-ace](https://github.com/angular-ui/ui-ace)
 
 
@@ -56,7 +57,7 @@ Web & Node Components
 - [lodash](http://lodash.com/)
 - [socket.io](http://socket.io/)
 
-## Browser
+## Browser UI
 
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter)
 - [X-editable](http://vitalets.github.io/x-editable/)
@@ -64,6 +65,7 @@ Web & Node Components
 - [datatables](http://datatables.net/)
 - [AngularJS](https://angularjs.org/)
 - [AngularUI](http://angular-ui.github.io/)
+- [ui-router](http://angular-ui.github.io/ui-router/)
 - [Angular-xeditable](https://github.com/vitalets/angular-xeditable)
 - [angular-form-builder](https://github.com/kelp404/angular-form-builder)
 
@@ -75,7 +77,8 @@ Web & Node Components
 
 - [angular-seed](https://github.com/angular/angular-seed)
 - [ng-inspector](http://ng-inspector.org/)
-- [angularjs-styleguide](https://github.com/johnpapa/angularjs-styleguide)
+- 1 [angularjs-styleguide](https://github.com/johnpapa/angularjs-styleguide)
+- 2 [angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide)
 - [angular-data](https://github.com/jmdobry/angular-data)
 
 
