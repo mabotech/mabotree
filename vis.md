@@ -17,8 +17,7 @@
 ## Chart
 - [d3.js](http://d3js.org/)
 - [flot](https://github.com/flot/flot)
-- [angular-flot](https://github.com/d
-- evelersrl/angular-flot)
+- [angular-flot](https://github.com/develersrl/angular-flot)
 - timeline, network [vis](http://visjs.org/)
 - [graphviz](http://graphviz.org/)
 - [nvd3](https://github.com/novus/nvd3)
@@ -52,6 +51,7 @@
 
 ## Calendar
 - [fullcalendar](http://arshaw.com/fullcalendar/)
+- [ui-calendar](https://github.com/angular-ui/ui-calendar)
 
 
 ## Tree
@@ -60,9 +60,11 @@
 
 ## Table
 
-- [sensei-grid](https://github.com/datazenit/sensei-grid)
 - [datatables](http://datatables.net/)
+- github [DataTables](https://github.com/DataTables/DataTables)
+- [angular-datatables](http://l-lin.github.io/angular-datatables/)
 - [ng-grid](http://angular-ui.github.io/ng-grid/)
+- [sensei-grid](https://github.com/datazenit/sensei-grid)
 
 
 
