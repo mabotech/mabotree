@@ -41,6 +41,11 @@
 ## Icons
 - [ionicons](http://ionicons.com/)
 
+##  Iconic font
+
+- [Font-Awesome | FA](http://fontawesome.io/icons/)
+
+
 ## Admin
 - [DEVOOPS](https://github.com/devoopsme/devoops)
 - [devoops](http://devoops.me/)
