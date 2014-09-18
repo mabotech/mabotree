@@ -27,6 +27,8 @@
 - chart [dimplejs](http://dimplejs.org/)
 - [dimple github](https://github.com/PMSI-AlignAlytics/dimple)
 - real-time [epoch](http://fastly.github.io/epoch/)
+- python [bokeh](http://bokeh.pydata.org/)
+- [bokeh](https://github.com/ContinuumIO/bokeh) @github
 
 ## Flow
 - [jointjs](http://jointjs.com/)
@@ -79,6 +81,7 @@
 
 ## Dashboard
 - [grafana](http://grafana.org/)
+- [grafana](https://github.com/grafana/grafana) @github
 
 
 ## Kanban

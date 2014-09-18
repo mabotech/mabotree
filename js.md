@@ -75,6 +75,7 @@ Web & Node Components
 
 ## Angular Resources
 
+- [angular-education](https://github.com/timjacobi/angular-education)
 - [angular-seed](https://github.com/angular/angular-seed)
 - [ng-inspector](http://ng-inspector.org/)
 - 1 [angularjs-styleguide](https://github.com/johnpapa/angularjs-styleguide)
