@@ -30,6 +30,10 @@
 - python [bokeh](http://bokeh.pydata.org/)
 - [bokeh](https://github.com/ContinuumIO/bokeh) @github
 
+## Time Series
+
+- [morris.js](https://github.com/morrisjs/morris.js)
+
 ## Flow
 - [jointjs](http://jointjs.com/)
 
@@ -52,13 +56,16 @@
 - [DEVOOPS](https://github.com/devoopsme/devoops)
 - [devoops](http://devoops.me/)
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
-- [sb-admin](http://startbootstrap.com/template-overviews/sb-admin/)
+- [ng-admin](http://ng-admin.marmelab.com/)
+- [ng-admin](https://github.com/marmelab/ng-admin) @github
+- [sb-ad
+- min](http://startbootstrap.com/template-overviews/sb-admin/)
 - [sb-admin-2](http://startbootstrap.com/template-overviews/sb-admin-2/)
 
 
 ## Calendar
 - [fullcalendar](http://arshaw.com/fullcalendar/)
-- [ui-calendar](https://github.com/angular-ui/ui-calendar)
+- ng [ui-calendar](https://github.com/angular-ui/ui-calendar)
 
 
 ## Tree

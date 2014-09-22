@@ -42,6 +42,7 @@ Web & Node Components
 
 - datepicker [pickadate](https://github.com/amsul/pickadate.js/)
 - colorpicker [spectrum](http://bgrins.github.io/spectrum/)
+- [angular-strap](http://mgcrea.github.io/angular-strap/)
 
 
 ## Table
@@ -60,6 +61,7 @@ Web & Node Components
 ## Browser UI
 
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter)
+- [angular-strap](https://github.com/mgcrea/angular-strap)
 - [X-editable](http://vitalets.github.io/x-editable/)
 - json schema [json-editor](https://github.com/jdorn/json-editor)
 - [datatables](http://datatables.net/)
