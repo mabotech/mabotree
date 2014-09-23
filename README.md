@@ -10,6 +10,7 @@ Resources, Education and Training stuff.
 | [Vis](https://github.com/mabotech/mabotree/blob/master/vis.md)
 | [PostgreSQL](https://github.com/mabotech/mabotree/blob/master/pg.md)
 | [Emacs](https://github.com/mabotech/mabotree/blob/master/emacs_sc.md)
+| [Stats](https://github.com/mabotech/mabotree/blob/master/stats.md)
 
 Recommand Resources
 ===================
