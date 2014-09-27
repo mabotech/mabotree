@@ -30,6 +30,7 @@ Web & Node Components
 - [angular-form-builder](http://kelp404.github.io/angular-form-builder/)
 - [angular-schema-form](https://github.com/Textalk/angular-schema-form)
 - [tv4](https://github.com/geraintluff/tv4)
+- [ADE](https://github.com/Toodledo/ADE)
 
 ## Editor
 

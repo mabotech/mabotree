@@ -93,6 +93,7 @@
 
 ## Kanban
 - [my-personal-kanban](https://github.com/greggigon/my-personal-kanban)
+- [ui-sortable](https://github.com/angular-ui/ui-sortable)
 
 
 ## Gantt
@@ -101,6 +102,7 @@
 
 ## Map
 - [leaflet](http://leafletjs.com/)
+- [angular-leaflet-directive)](https://github.com/tombatossals/angular-leaflet-directive)
 
 ## Video
 
