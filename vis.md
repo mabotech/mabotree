@@ -107,3 +107,8 @@
 ## Video
 
 - [accessible-html5-video-player](https://github.com/paypal/accessible-html5-video-player)
+
+## Carousel
+
+- [slick](https://github.com/kenwheeler/slick/)
+- [angular-slick](https://github.com/vasyabigi/angular-slick)
