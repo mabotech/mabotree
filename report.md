@@ -1,11 +1,12 @@
 
 # Report
 
-
+generate Word / Excel / PDF reports.
 
 
 ## Data
  - [pandas](https://github.com/pydata/pandas)
+ - [q - Text as Data](https://github.com/harelba/q)
 
 ## Cloud
 
@@ -16,6 +17,7 @@
 
 ## Excel
 - [xlrd](https://github.com/python-excel/xlrd)
+- [xlwings](https://github.com/ZoomerAnalytics/xlwings)
 
 ## PDF
 
