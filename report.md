@@ -23,3 +23,8 @@ generate Word / Excel / PDF reports.
 
 - [reportlab](http://www.reportlab.com/opensource/)
 - [reportlab](https://bitbucket.org/rptlab/reportlab) @bitbucket
+
+## Slide
+
+- [impress.js](https://github.com/bartaz/impress.js)
+- [reveal.js](https://github.com/hakimel/reveal.js)
