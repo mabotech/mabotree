@@ -28,3 +28,7 @@ generate Word / Excel / PDF reports.
 
 - [impress.js](https://github.com/bartaz/impress.js)
 - [reveal.js](https://github.com/hakimel/reveal.js)
+
+## Ref
+
+- [odoo](https://github.com/odoo/odoo), AGPLv3

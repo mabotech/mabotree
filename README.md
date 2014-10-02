@@ -38,10 +38,16 @@ Recommand Resources
 - [Golang](http://golang.org/project/)
 - [Erlang](http://www.erlang.org/)
 - [R](http://www.r-project.org/)
+- [rust](https://github.com/rust-lang/rust)
 
 ## Books
 
 - golang [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+
+## Rust
+
+- [rust](http://www.rust-lang.org/)
+- [rust](https://github.com/rust-lang/rust) @github
 
 ## Erlang
 
