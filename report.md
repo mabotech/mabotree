@@ -28,7 +28,10 @@ generate Word / Excel / PDF reports.
 
 - [impress.js](https://github.com/bartaz/impress.js)
 - [reveal.js](https://github.com/hakimel/reveal.js)
+- [pagePiling.js](https://github.com/alvarotrigo/pagePiling.js)
 
 ## Ref
 
 - [odoo](https://github.com/odoo/odoo), AGPLv3
+- [taiga-front](https://github.com/taigaio/taiga-front)
+- [taiga-back](https://github.com/taigaio/taiga-back)
