@@ -8,9 +8,11 @@ Resources, Education and Training stuff.
 | [JavaScript](https://github.com/mabotech/mabotree/blob/master/js.md)
 | [Python](https://github.com/mabotech/mabotree/blob/master/python.md)
 | [Vis](https://github.com/mabotech/mabotree/blob/master/vis.md)
+| [UI](https://github.com/mabotech/mabotree/blob/master/ui.md)
 | [PostgreSQL](https://github.com/mabotech/mabotree/blob/master/pg.md)
 | [Emacs](https://github.com/mabotech/mabotree/blob/master/emacs_sc.md)
 | [Stats](https://github.com/mabotech/mabotree/blob/master/stats.md)
+| [Report](https://github.com/mabotech/mabotree/blob/master/report.md)
 
 Recommand Resources
 ===================
