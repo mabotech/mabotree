@@ -14,6 +14,8 @@
 
 # UI
 
+- [Flat-UI](http://designmodo.github.io/Flat-UI/)
+
 ## Admin
 - [DEVOOPS](https://github.com/devoopsme/devoops)
 - [devoops](http://devoops.me/)
@@ -58,9 +60,7 @@
 - [jQuery.Gantt](http://taitems.github.io/jQuery.Gantt/)
 - [angular-gantt](https://github.com/Schweigi/angular-gantt)
 
-## Map
-- [leaflet](http://leafletjs.com/)
-- [angular-leaflet-directive)](https://github.com/tombatossals/angular-leaflet-directive)
+
 
 ## Video
 

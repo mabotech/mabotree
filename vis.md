@@ -13,8 +13,8 @@
 
 # Vis
 
+- [data-visualization](https://github.com/showcases/data-visualization)
 - [colors](http://clrs.cc/)
-- [Flat-UI](http://designmodo.github.io/Flat-UI/)
 
 
 ## Chart
@@ -29,9 +29,14 @@
 - [datavisualization](http://selection.datavisualization.ch/)
 - chart [dimplejs](http://dimplejs.org/)
 - [dimple github](https://github.com/PMSI-AlignAlytics/dimple)
-- real-time [epoch](http://fastly.github.io/epoch/)
 - python [bokeh](http://bokeh.pydata.org/)
 - [bokeh](https://github.com/ContinuumIO/bokeh) @github
+
+## Timeline
+- timeline, network [vis](http://visjs.org/)
+
+## Real-time
+- [epoch](http://fastly.github.io/epoch/)
 
 ## Time Series
 
@@ -44,3 +49,6 @@
 - [grafana](http://grafana.org/)
 - [grafana](https://github.com/grafana/grafana) @github
 
+## Map
+- [leaflet](http://leafletjs.com/)
+- [angular-leaflet-directive)](https://github.com/tombatossals/angular-leaflet-directive)

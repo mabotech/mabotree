@@ -22,6 +22,9 @@ Web & Node Components
 - [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
 - [nodejs modules](https://nodejsmodules.org/)
 
+## Event
+- [bean](https://github.com/fat/bean)
+
 ## Form
 - [json-editor](https://github.com/jdorn/json-editor)
 - [forms-angular](https://github.com/forms-angular/forms-angular)
