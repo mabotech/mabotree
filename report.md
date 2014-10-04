@@ -11,6 +11,11 @@ generate Word / Excel / PDF reports.
 ## Cloud
 
 
+## Converter
+
+- [pandoc](http://johnmacfarlane.net/pandoc/index.html)
+
+
 ## Word
 - [python-docx](https://github.com/python-openxml/python-docx)
 
