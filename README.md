@@ -41,10 +41,15 @@ Recommand Resources
 - [Erlang](http://www.erlang.org/)
 - [R](http://www.r-project.org/)
 - [rust](https://github.com/rust-lang/rust)
+- [dart](https://www.dartlang.org/)
 
 ## Books
 
 - golang [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+
+## Dart
+- [dart](https://www.dartlang.org/)
+
 
 ## Rust
 

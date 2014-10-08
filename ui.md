@@ -22,8 +22,7 @@
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
 - [ng-admin](http://ng-admin.marmelab.com/)
 - [ng-admin](https://github.com/marmelab/ng-admin) @github
-- [sb-ad
-- min](http://startbootstrap.com/template-overviews/sb-admin/)
+- [sb-admin](http://startbootstrap.com/template-overviews/sb-admin/)
 - [sb-admin-2](http://startbootstrap.com/template-overviews/sb-admin-2/)
 
 ## Menu
