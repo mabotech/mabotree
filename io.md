@@ -21,6 +21,10 @@ Equipment， instrumentation and machine integration.
 
 ## Modbus
 
+[modbus](http://www.modbus.com/)
+
+- [MinimalModbus](https://pypi.python.org/pypi/MinimalModbus/)
+
 ## Ethernet
 
 ## Data Process
