@@ -8,6 +8,7 @@ Equipment， instrumentation and machine integration.
 
 - [python-can](https://bitbucket.org/hardbyte/python-can)
 - [python-can](https://python-can.readthedocs.org/en/latest/) @readthedocs
+- [SocketCAN](https://en.wikipedia.org/wiki/SocketCAN)
 
 ## USB
 
