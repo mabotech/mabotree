@@ -24,9 +24,13 @@
 ## Cloud
 - [serf](http://www.serfdom.io/)
 - [circuit](https://github.com/gocircuit/circuit)
-- [etcd](https://github.com/coreos/etcd)
-- [consul](http://www.consul.io/)
-- [confd](https://github.com/kelseyhightower/confd)
+
+## Config
+
+- [etcd](https://github.com/coreos/etcd) config 
+- [consul](https://github.com/hashicorp/consul) @github
+- [consul](http://www.consul.io/) config
+- [confd](https://github.com/kelseyhightower/confd) (binary:OS X and Linux 64bit)
 
 
 ## Web
