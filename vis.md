@@ -19,6 +19,7 @@
 
 ## Chart
 - [d3.js](http://d3js.org/)
+- [line-chart](https://github.com/n3-charts/line-chart)
 - [flot](https://github.com/flot/flot)
 - [angular-flot](https://github.com/develersrl/angular-flot)
 - timeline, network [vis](http://visjs.org/)
