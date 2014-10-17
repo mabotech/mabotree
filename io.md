@@ -19,7 +19,14 @@ Equipment， instrumentation and machine integration.
 
 ## OPC
 
+- [OpenOPC](http://openopc.sourceforge.net/)
+- [Node OPCUA](https://github.com/node-opcua/node-opcua)
+
+
 ## GPIB
+- [pyvisa](https://github.com/hgrecco/pyvisa) @github
+- [pyvisa](http://pyvisa.readthedocs.org/)
+
 
 ## Modbus
 
