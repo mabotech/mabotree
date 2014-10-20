@@ -17,6 +17,8 @@ Equipment， instrumentation and machine integration.
 
 ## RS232
 
+- [pyserial](http://pyserial.sourceforge.net/)
+
 ## OPC
 
 - [OpenOPC](http://openopc.sourceforge.net/)
@@ -30,11 +32,13 @@ Equipment， instrumentation and machine integration.
 
 ## Modbus
 
-[modbus](http://www.modbus.com/)
+[modbus.com](http://www.modbus.com/)
 
 - [MinimalModbus](https://pypi.python.org/pypi/MinimalModbus/)
 
 ## Ethernet
 
+
 ## Data Process
 
+- [pandas](https://github.com/pydata/pandas)
