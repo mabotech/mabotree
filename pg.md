@@ -9,11 +9,12 @@
 
 # PostgreSQL
 
+- [PostgreSQL](http://www.postgresql.org/)
+
+
 ## Pg
 
-- [PostgreSQL](http://www.postgresql.org/)
 - [pgxn](http://pgxn.org/)
-- Query Builder [knex](http://knexjs.org/)
 - [pg](https://github.com/brianc/node-postgres)
 - [pg.js](https://github.com/brianc/node-postgres-pure)
 - [psycopg](http://initd.org/psycopg/)
@@ -30,8 +31,7 @@
 - R [plr](http://www.joeconway.com/plr/)
 - Java [pljava](https://github.com/tada/pljava)
 
-## NoSQL
-- [Redis](http://redis.io/)
-- [leveldb](http://leveldb.org/)
-- [influxdb](http://influxdb.com/)
-- [influxdb-python](https://github.com/influxdb/influxdb-python)
+## Tools
+
+- Browser [pgweb](https://github.com/sosedoff/pgweb)
+- Query Builder [knex](http://knexjs.org/)
