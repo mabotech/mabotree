@@ -16,6 +16,11 @@
 
 - [Flat-UI](http://designmodo.github.io/Flat-UI/)
 
+## Dashboard
+
+- [dashboards](https://github.com/keen/dashboards)
+- [grafana](http://grafana.org/)
+
 ## Admin
 - [DEVOOPS](https://github.com/devoopsme/devoops)
 - [devoops](http://devoops.me/)
