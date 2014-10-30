@@ -23,6 +23,7 @@ Equipment， instrumentation and machine integration.
 
 - [OpenOPC](http://openopc.sourceforge.net/)
 - [Node OPCUA](https://github.com/node-opcua/node-opcua)
+- [uaf](https://github.com/uaf/uaf)
 
 
 ## GPIB
@@ -42,3 +43,7 @@ Equipment， instrumentation and machine integration.
 ## Data Process
 
 - [pandas](https://github.com/pydata/pandas)
+
+## Home
+
+- [home-assistant](https://github.com/balloob/home-assistant)
