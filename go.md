@@ -40,6 +40,10 @@
 ## Message
 - [nsq](https://github.com/bitly/nsq)
 
+## Health Manager
+
+- [hm9000](https://github.com/cloudfoundry/hm9000)
+- [consul](https://github.com/hashicorp/consul)
 
 ## Data Acquisition
 - data collection and process [heka](https://github.com/mozilla-services/heka)
