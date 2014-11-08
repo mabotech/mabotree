@@ -95,3 +95,13 @@ Web & Node Components
 - [gulp](http://gulpjs.com/)
 - [phantomjs](https://github.com/ariya/phantomjs)
 - [nodemon](http://nodemon.io/)
+
+## Standalone
+
+[html5-apps-desktop](http://clintberry.com/2013/html5-apps-desktop-2013/)
+
+- [tidesdk](http://www.tidesdk.org/)
+- [node-webkit](https://github.com/rogerwang/node-webkit)
+- [appjs](http://appjs.com/)
+- [brackets-shell](https://github.com/adobe/brackets-shell)
+
