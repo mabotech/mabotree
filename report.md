@@ -28,6 +28,7 @@ generate Word / Excel / PDF reports.
 
 - [reportlab](http://www.reportlab.com/opensource/)
 - [reportlab](https://bitbucket.org/rptlab/reportlab) @bitbucket
+- Node [pdfkit](http://pdfkit.org/)
 
 ## Slide
 

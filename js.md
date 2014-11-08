@@ -98,10 +98,25 @@ Web & Node Components
 
 ## Standalone
 
+**Desktop**
+
 [html5-apps-desktop](http://clintberry.com/2013/html5-apps-desktop-2013/)
+
+[list](http://teahour.fm/2014/07/22/node-webkit-with-rogerwang.html)
+
+links
 
 - [tidesdk](http://www.tidesdk.org/)
 - [node-webkit](https://github.com/rogerwang/node-webkit)
+- [node-webkit wiki](https://github.com/rogerwang/node-webkit/wiki)
 - [appjs](http://appjs.com/)
+- [atom-shell](https://github.com/atom/atom-shell)
 - [brackets-shell](https://github.com/adobe/brackets-shell)
+- [CEF](https://code.google.com/p/chromiumembedded/)
+- [hex](https://github.com/netease-youdao/hex)
+- [nexe](https://github.com/crcn/nexe)
 
+**Phone**
+
+- [phonegap](https://github.com/sintaxi/phonegap)
+- [phonegap.com](http://phonegap.com/)
