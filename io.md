@@ -47,3 +47,8 @@ Equipment， instrumentation and machine integration.
 ## Home
 
 - [home-assistant](https://github.com/balloob/home-assistant)
+- [gobot](https://github.com/hybridgroup/gobot)
+
+## Alert
+
+- [bosun](http://bosun.org/)

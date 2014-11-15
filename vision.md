@@ -14,6 +14,12 @@
 - [node-opencv](https://github.com/peterbraden/node-opencv)
 
 
+## Recipes
+
+- [camera-frame](http://code.activestate.com/recipes/578085-pythonopencv-camera-frame-grab-and-sobel-display/)
+- [Motion-detection](https://github.com/RobinDavid/Motion-detection-OpenCV)
+
+
 ## Others
 
 - [scikit-learn](http://scikit-learn.org/)

@@ -12,7 +12,6 @@
 
 
 # Vis
-
 - [data-visualization](https://github.com/showcases/data-visualization)
 - [colors](http://clrs.cc/)
 
@@ -33,15 +32,16 @@
 - python [bokeh](http://bokeh.pydata.org/)
 - [bokeh](https://github.com/ContinuumIO/bokeh) @github
 
-## Timeline
-- timeline, network [vis](http://visjs.org/)
-
 ## Real-time
 - [epoch](http://fastly.github.io/epoch/)
 
 ## Time Series
-
 - [morris.js](https://github.com/morrisjs/morris.js)
+- [metrics-graphics](https://github.com/mozilla/metrics-graphics)
+- [metricsgraphicsjs.org](http://metricsgraphicsjs.org/)
+
+## Timeline
+- timeline, network [vis](http://visjs.org/)
 
 ## Flow
 - [jointjs](http://jointjs.com/)
