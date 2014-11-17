@@ -25,55 +25,12 @@ Web & Node Components
 ## Event
 - [bean](https://github.com/fat/bean)
 
-## Form
-- [json-editor](https://github.com/jdorn/json-editor)
-- [forms-angular](https://github.com/forms-angular/forms-angular)
-- [angular-formly](http://nimbly.github.io/angular-formly/)
-- repo [angular-formly](https://github.com/nimbly/angular-formly)
-- [angular-form-builder](http://kelp404.github.io/angular-form-builder/)
-- [angular-schema-form](https://github.com/Textalk/angular-schema-form)
-- [tv4](https://github.com/geraintluff/tv4)
-- [ADE](https://github.com/Toodledo/ADE)
-
-## Editor
-
-- [ace](http://ajaxorg.github.io/ace/)
-- [ace](https://github.com/ajaxorg/ace)
-- [angular-ui-ace](https://github.com/angular-ui/ui-ace)
-
-
-## Picker
-
-- datepicker [pickadate](https://github.com/amsul/pickadate.js/)
-- colorpicker [spectrum](http://bgrins.github.io/spectrum/)
-- [angular-strap](http://mgcrea.github.io/angular-strap/)
-
-
-## Table
-
-- [sensei-grid](https://github.com/datazenit/sensei-grid)
-- [datatables](http://datatables.net/)
-- [ng-grid](http://angular-ui.github.io/ng-grid/)
-
 ## Lib
 
 - [require](http://requirejs.org/)
 - [underscore](http://underscorejs.org/)
 - [lodash](http://lodash.com/)
 - [socket.io](http://socket.io/)
-
-## Browser UI
-
-- [Hackathon Starter](https://github.com/sahat/hackathon-starter)
-- [angular-strap](https://github.com/mgcrea/angular-strap)
-- [X-editable](http://vitalets.github.io/x-editable/)
-- json schema [json-editor](https://github.com/jdorn/json-editor)
-- [datatables](http://datatables.net/)
-- [AngularJS](https://angularjs.org/)
-- [AngularUI](http://angular-ui.github.io/)
-- [ui-router](http://angular-ui.github.io/ui-router/)
-- [Angular-xeditable](https://github.com/vitalets/angular-xeditable)
-- [angular-form-builder](https://github.com/kelp404/angular-form-builder)
 
 ## Application
 
@@ -87,7 +44,6 @@ Web & Node Components
 - 1 [angularjs-styleguide](https://github.com/johnpapa/angularjs-styleguide)
 - 2 [angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide)
 - [angular-data](https://github.com/jmdobry/angular-data)
-
 
 ## Tools
 

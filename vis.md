@@ -49,6 +49,7 @@
 ## Dashboard
 - [grafana](http://grafana.org/)
 - [grafana](https://github.com/grafana/grafana) @github
+- [dashboards](https://github.com/keen/dashboards)
 
 ## Map
 - [leaflet](http://leafletjs.com/)
