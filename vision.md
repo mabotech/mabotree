@@ -23,3 +23,7 @@
 ## Others
 
 - [scikit-learn](http://scikit-learn.org/)
+
+## Barcode
+
+- [quaggaJS](https://github.com/serratus/quaggaJS)

@@ -4,6 +4,10 @@
 
 Equipment， instrumentation and machine integration.
 
+## Barcode
+
+- [quaggaJS](https://github.com/serratus/quaggaJS)
+
 ## CAN
 
 - [CAN_bus](http://en.wikipedia.org/wiki/CAN_bus) @wikipedia
@@ -26,7 +30,15 @@ Equipment， instrumentation and machine integration.
 - [uaf](https://github.com/uaf/uaf)
 
 
+## AK
+
+
+## SCPI
+- [wikipedia](http://zh.wikipedia.org/wiki/SCPI)
+
+
 ## GPIB
+- [wiki](http://en.wikipedia.org/wiki/IEEE-488)
 - [pyvisa](https://github.com/hgrecco/pyvisa) @github
 - [pyvisa](http://pyvisa.readthedocs.org/)
 

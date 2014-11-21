@@ -45,6 +45,10 @@ Web & Node Components
 - 2 [angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide)
 - [angular-data](https://github.com/jmdobry/angular-data)
 
+## Editor
+
+- [devil](https://github.com/newton-software/devil)
+
 ## Tools
 
 - package manager [bower](http://bower.io/)
