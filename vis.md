@@ -31,6 +31,7 @@
 - [dimple github](https://github.com/PMSI-AlignAlytics/dimple)
 - python [bokeh](http://bokeh.pydata.org/)
 - [bokeh](https://github.com/ContinuumIO/bokeh) @github
+- [charted](https://github.com/mikesall/charted)
 
 ## Real-time
 - [epoch](http://fastly.github.io/epoch/)
@@ -49,7 +50,7 @@
 ## Dashboard
 - [grafana](http://grafana.org/)
 - [grafana](https://github.com/grafana/grafana) @github
-- [dashboards](https://github.com/keen/dashboards)
+- [dashboards](https://github.com/keen/dashboards) by Keen IO
 
 ## Map
 - [leaflet](http://leafletjs.com/)
