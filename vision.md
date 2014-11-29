@@ -13,6 +13,9 @@
 - [http://abruzzi.iteye.com/blog/463668](http://abruzzi.iteye.com/blog/463668)
 - [node-opencv](https://github.com/peterbraden/node-opencv)
 
+## Resizer
+
+- [trez](https://github.com/DAddYE/trez)
 
 ## Recipes
 

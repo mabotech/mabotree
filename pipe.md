@@ -14,3 +14,7 @@ Data collection & Pipe
 ## Log
 - [nxlog](http://nxlog.org/)
 - [logio](http://logio.org/)
+
+## Queue
+
+- [go-workers](https://github.com/jrallison/go-workers)
