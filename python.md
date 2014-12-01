@@ -21,6 +21,11 @@
 - [awesome-python](https://github.com/vinta/awesome-python)
 - activestate [recipes](http://code.activestate.com/recipes/langs/python/)
 
+## Lib
+
+- [Tomer Filiba](http://tomerfiliba.com/projects)
+- [rpyc](https://github.com/tomerfiliba/rpyc)
+
 ## Web
 - [Flask](http://flask.pocoo.org/)
 - [Mako Template](http://www.makotemplates.org/)

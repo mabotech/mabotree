@@ -96,12 +96,14 @@
 
 ## Grid
 - [angular-deckgrid](https://github.com/akoenig/angular-deckgrid),  masonry-like grid for AngularJS
+-  [handsontable](https://github.com/handsontable/handsontable) Excel-like grid
 
 ## Editor
 
 - [ace](http://ajaxorg.github.io/ace/)
 - [ace](https://github.com/ajaxorg/ace)
 - [angular-ui-ace](https://github.com/angular-ui/ui-ace)
+- [mermaid](https://github.com/knsv/mermaid) flowchart
 
 
 ## Picker
