@@ -34,6 +34,8 @@
 
 - [dashboards](https://github.com/keen/dashboards)
 - [grafana](http://grafana.org/)
+- [freeboard](https://github.com/Freeboard/freeboard)
+- [freeboard](http://freeboard.github.io/freeboard/)
 
 ## Admin
 - [DEVOOPS](https://github.com/devoopsme/devoops)
