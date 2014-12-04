@@ -16,6 +16,11 @@
 
 - [Flat-UI](http://designmodo.github.io/Flat-UI/)
 
+## Auth
+
+- [angular-client-side-auth](https://github.com/fnakstad/angular-client-side-auth)
+- [article](https://vickev.com/#!/article/authentication-in-single-page-applications-node-js-passportjs-angularjs)
+
 ## Form
 - [angular-schema-form](https://github.com/Textalk/angular-schema-form)
 - [jsonform](https://github.com/joshfire/jsonform)
@@ -29,6 +34,11 @@
 - [tv4](https://github.com/geraintluff/tv4)
 - [ADE](https://github.com/Toodledo/ADE)
 
+## Tags
+
+- [angular-tags](http://decipherinc.github.io/angular-tags/)
+- [angular-multi-select](http://isteven.github.io/angular-multi-select/)
+- [jsTag](http://eranhirs.github.io/jsTag/)
 
 ## Dashboard
 
@@ -41,10 +51,22 @@
 - [DEVOOPS](https://github.com/devoopsme/devoops)
 - [devoops](http://devoops.me/)
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
-- [ng-admin](http://ng-admin.marmelab.com/)
-- [ng-admin](https://github.com/marmelab/ng-admin) @github
 - [sb-admin](http://startbootstrap.com/template-overviews/sb-admin/)
 - [sb-admin-2](http://startbootstrap.com/template-overviews/sb-admin-2/)
+
+### Angular-Admin
+
+- [rdash](http://rdash.github.io/)
+- @ [ng-admin](http://ng-admin.marmelab.com/)
+- @ [ng-admin](https://github.com/marmelab/ng-admin) @github
+
+## spin
+
+- [SpinKit](https://github.com/tobiasahlin/SpinKit)
+
+## Layout
+
+- [ui-layout](https://github.com/angular-ui/ui-layout/)
 
 ## Menu
 - [bootstrap](https://github.com/twbs/bootstrap)
@@ -77,8 +99,10 @@
 
 
 ## Gantt
+- [angular-gantt](https://github.com/angular-gantt/angular-gantt)
+- [angular-gantt.com](https://www.angular-gantt.com/)
 - [jQuery.Gantt](http://taitems.github.io/jQuery.Gantt/)
-- [angular-gantt](https://github.com/Schweigi/angular-gantt)
+
 
 ## Video
 
@@ -111,6 +135,7 @@
 ## Picker
 
 - datepicker [pickadate](https://github.com/amsul/pickadate.js/)
+- multi-date [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker)
 - colorpicker [spectrum](http://bgrins.github.io/spectrum/)
 - [angular-strap](http://mgcrea.github.io/angular-strap/)
 

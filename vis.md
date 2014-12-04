@@ -32,7 +32,7 @@
 - python [bokeh](http://bokeh.pydata.org/)
 - [bokeh](https://github.com/ContinuumIO/bokeh) @github
 - [charted](https://github.com/mikesall/charted)
-- [metricsgraphicsjs](http://metricsgraphicsjs.org/)
+- [metrics-graphics](http://metricsgraphicsjs.org/)
 
 ## Real-time
 - [epoch](http://fastly.github.io/epoch/)
