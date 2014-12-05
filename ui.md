@@ -68,6 +68,10 @@
 
 - [ui-layout](https://github.com/angular-ui/ui-layout/)
 
+## Slider
+
+- [ui-slider](https://github.com/angular-ui/ui-slider)
+
 ## Menu
 - [bootstrap](https://github.com/twbs/bootstrap)
 - [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap)
