@@ -48,6 +48,8 @@
 - [freeboard](http://freeboard.github.io/freeboard/)
 
 ## Admin
+- [flakes](http://getflakes.com/preview/index.html)
+- [flakes](https://github.com/kumailht/flakes) @github
 - [DEVOOPS](https://github.com/devoopsme/devoops)
 - [devoops](http://devoops.me/)
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE)

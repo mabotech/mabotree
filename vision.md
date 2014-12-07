@@ -13,6 +13,11 @@
 - [http://abruzzi.iteye.com/blog/463668](http://abruzzi.iteye.com/blog/463668)
 - [node-opencv](https://github.com/peterbraden/node-opencv)
 
+## SimpleCV
+
+- [simplecv.org](http://www.simplecv.org/)
+
+
 ## Resizer
 
 - [trez](https://github.com/DAddYE/trez)
@@ -22,6 +27,9 @@
 - [camera-frame](http://code.activestate.com/recipes/578085-pythonopencv-camera-frame-grab-and-sobel-display/)
 - [Motion-detection](https://github.com/RobinDavid/Motion-detection-OpenCV)
 
+## Python
+
+- [python2 samples](https://github.com/Itseez/opencv/tree/master/samples/python2)
 
 ## Others
 
@@ -30,3 +38,5 @@
 ## Barcode
 
 - [quaggaJS](https://github.com/serratus/quaggaJS)
+
+- [orange](http://orange.biolab.si/)
