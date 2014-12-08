@@ -30,6 +30,7 @@
 ## Python
 
 - [python2 samples](https://github.com/Itseez/opencv/tree/master/samples/python2)
+- [opencv-python-tutroals](http://opencv-python-tutroals.readthedocs.org/)
 
 ## Others
 
