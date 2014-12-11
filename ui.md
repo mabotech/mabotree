@@ -84,6 +84,7 @@
 ## Calendar
 - [fullcalendar](http://arshaw.com/fullcalendar/)
 - ng [ui-calendar](https://github.com/angular-ui/ui-calendar)
+- [MultipleDatePicker](https://github.com/arca-computing/MultipleDatePicker)
 
 
 ## Tree
