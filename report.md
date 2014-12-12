@@ -10,15 +10,20 @@ generate Word / Excel / PDF reports.
 
 ## Cloud
 
-## Browser
+- [rpubs.com](http://rpubs.com/)
 
-- google [lovefield](https://github.com/google/lovefield)
+## Editor
 
+- [knitr](https://github.com/yihui/knitr)
+- [rstudio](http://www.rstudio.com/)
+- [rmarkdown](http://rmarkdown.rstudio.com/)
+- [rmarkdown](https://github.com/rstudio/rmarkdown) @github
 
 
 ## Converter
 
 - [pandoc](http://johnmacfarlane.net/pandoc/index.html)
+- [pandoc](https://github.com/jgm/pandoc) @github
 
 
 ## Word
@@ -40,6 +45,11 @@ generate Word / Excel / PDF reports.
 - [impress.js](https://github.com/bartaz/impress.js)
 - [reveal.js](https://github.com/hakimel/reveal.js)
 - [pagePiling.js](https://github.com/alvarotrigo/pagePiling.js)
+
+## Browser
+
+- google [lovefield](https://github.com/google/lovefield)
+
 
 ## Ref
 
