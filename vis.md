@@ -15,6 +15,8 @@
 - [data-visualization](https://github.com/showcases/data-visualization)
 - [colors](http://clrs.cc/)
 
+# R
+- [plotly](https://plot.ly/r/)
 
 ## Chart
 - [d3.js](http://d3js.org/)

@@ -11,6 +11,9 @@ generate Word / Excel / PDF reports.
 ## Cloud
 
 - [rpubs.com](http://rpubs.com/)
+- [jupyter.org](http://jupyter.org/)
+- [ipython.org](http://ipython.org/)
+- [nbviewer](http://nbviewer.ipython.org/)
 
 ## Editor
 

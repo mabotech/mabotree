@@ -7,6 +7,7 @@ Equipment， instrumentation and machine integration.
 ## Barcode
 
 - [quaggaJS](https://github.com/serratus/quaggaJS)
+- [pyBarcode](https://pythonhosted.org/pyBarcode/)
 
 ## CAN
 
@@ -29,6 +30,11 @@ Equipment， instrumentation and machine integration.
 - [Node OPCUA](https://github.com/node-opcua/node-opcua)
 - [uaf](https://github.com/uaf/uaf)
 
+# SNMP
+
+- [pysnmp](http://sourceforge.net/projects/pysnmp/)
+- [yapsnmp](http://sourceforge.net/projects/yapsnmp/)
+- [snmpsim](http://sourceforge.net/projects/snmpsim/)
 
 ## AK
 
