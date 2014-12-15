@@ -21,6 +21,22 @@
 - [awesome-python](https://github.com/vinta/awesome-python)
 - activestate [recipes](http://code.activestate.com/recipes/langs/python/)
 
+## Metrics
+
+- [Diamond](https://github.com/BrightcoveOS/Diamond)
+- [simmetrica](https://github.com/o/simmetrica)
+
+
+## Event
+
+- [simmetrica](https://github.com/o/simmetrica)
+- [emit](https://github.com/BrianHicks/emit)
+
+
+## Sound Pattern
+
+- [dejavu](https://github.com/worldveil/dejavu)
+
 ## Lib
 
 - [Tomer Filiba](http://tomerfiliba.com/projects)
@@ -28,6 +44,9 @@
 
 ## Web
 - [Flask](http://flask.pocoo.org/)
+- [flask-restful](https://github.com/flask-restful/flask-restful)
+- [falcon](https://github.com/racker/falcon)
+- [pulsar](https://github.com/quantmind/pulsar) -> JSON-RPC, Socket servers, Task queue
 - [Mako Template](http://www.makotemplates.org/)
 - [Requests](https://github.com/kennethreitz/requests)
 
@@ -52,6 +71,40 @@
 
 - [simpy](https://simpy.readthedocs.org/en/latest/)
 
+
+## Schedule
+
+- [schedule](https://github.com/dbader/schedule)
+
 ## Task
 
+task, job, batch, scheduler
+
 - [luigi](https://github.com/spotify/luigi)
+- [dagobah](https://github.com/thieman/dagobah)
+
+## Queue
+
+- [isso](https://github.com/posativ/isso)
+
+## Functional programming 
+
+- [fn.py](https://github.com/kachayev/fn.py)
+
+## SQL
+
+- [sqlparse](https://github.com/andialbrecht/sqlparse/)
+
+## Format
+
+- [autopep8](https://github.com/hhatto/autopep8)
+
+## Env
+
+- [pyenv](https://github.com/yyuu/pyenv)
+
+
+
+## Editor
+
+- [spyderlib](https://code.google.com/p/spyderlib/)
