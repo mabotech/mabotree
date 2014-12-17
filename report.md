@@ -30,12 +30,22 @@ generate Word / Excel / PDF reports.
 
 
 ## Word
+
+- [knitr](https://github.com/yihui/knitr)
+- [pandoc](https://github.com/jgm/pandoc)
 - [python-docx](https://github.com/python-openxml/python-docx)
 
 
 ## Excel
-- [xlrd](https://github.com/python-excel/xlrd)
-- [xlwings](https://github.com/ZoomerAnalytics/xlwings)
+
+- [openpyxl](http://openpyxl.readthedocs.org/en/latest/) @readthedocs, update xlsx
+- [xlrd](https://github.com/python-excel/xlrd) @github
+- [xlrd](https://pypi.python.org/pypi/xlrd)
+- [xlwt](https://github.com/python-excel/xlwt) @github
+- [xlwt](https://pypi.python.org/pypi/xlwt)
+- [XlsxWriter](https://github.com/jmcnamara/XlsxWriter)
+- [xlsxwriter](https://xlsxwriter.readthedocs.org/en/latest/alternatives.html) @readthedocs
+- [xlwings](https://github.com/ZoomerAnalytics/xlwings) Call Python from Excel
 
 ## PDF
 
