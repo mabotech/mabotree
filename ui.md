@@ -85,6 +85,18 @@
 - [fullcalendar](http://arshaw.com/fullcalendar/)
 - ng [ui-calendar](https://github.com/angular-ui/ui-calendar)
 - [MultipleDatePicker](https://github.com/arca-computing/MultipleDatePicker)
+- [Kalendae](https://github.com/ChiperSoft/Kalendae) @github
+
+## Date Picker
+
+- datepicker [pickadate](https://github.com/amsul/pickadate.js/)
+- [Pikaday](https://github.com/dbushell/Pikaday)
+- multi-date [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker)
+- [angular-strap](http://mgcrea.github.io/angular-strap/)
+
+## Color Picker
+
+- colorpicker [spectrum](http://bgrins.github.io/spectrum/)
 
 
 ## Tree
@@ -101,6 +113,8 @@
 
 
 ## Kanban
+
+- [taiga-front](https://github.com/taigaio/taiga-front)
 - [my-personal-kanban](https://github.com/greggigon/my-personal-kanban)
 - [ui-sortable](https://github.com/angular-ui/ui-sortable)
 
@@ -139,12 +153,6 @@
 - [mermaid](https://github.com/knsv/mermaid) flowchart
 
 
-## Picker
-
-- datepicker [pickadate](https://github.com/amsul/pickadate.js/)
-- multi-date [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker)
-- colorpicker [spectrum](http://bgrins.github.io/spectrum/)
-- [angular-strap](http://mgcrea.github.io/angular-strap/)
 
 
 ## Table
