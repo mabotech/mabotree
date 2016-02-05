@@ -34,16 +34,28 @@
 - [tv4](https://github.com/geraintluff/tv4)
 - [ADE](https://github.com/Toodledo/ADE)
 
+## Directed Graph
+
+- [dagre-d3](https://github.com/cpettitt/dagre-d3)
+- [etl-status](http://cpettitt.github.io/project/dagre-d3/latest/demo/etl-status.html)
+- [mermaid](https://github.com/knsv/mer
+- maid)
+
 ## Tags
 
 - [angular-tags](http://decipherinc.github.io/angular-tags/)
 - [angular-multi-select](http://isteven.github.io/angular-multi-select/)
 - [jsTag](http://eranhirs.github.io/jsTag/)
 
+## Map
+
+- [turfjs](http://turfjs.org/)
+
 ## Dashboard
 
 - [dashboards](https://github.com/keen/dashboards)
 - [grafana](http://grafana.org/)
+- [grafana](https://github.com/grafana/grafana) @github
 - [freeboard](https://github.com/Freeboard/freeboard)
 - [freeboard](http://freeboard.github.io/freeboard/)
 
@@ -116,8 +128,11 @@
 
 - [taiga-front](https://github.com/taigaio/taiga-front)
 - [my-personal-kanban](https://github.com/greggigon/my-personal-kanban)
-- [ui-sortable](https://github.com/angular-ui/ui-sortable)
 
+## Sortable
+
+- [ui-sortable](https://github.com/angular-ui/ui-sortable)
+- [Sortable](https://github.com/RubaXa/Sortable)
 
 ## Gantt
 - [angular-gantt](https://github.com/angular-gantt/angular-gantt)
@@ -143,7 +158,8 @@
 
 ## Grid
 - [angular-deckgrid](https://github.com/akoenig/angular-deckgrid),  masonry-like grid for AngularJS
--  [handsontable](https://github.com/handsontable/handsontable) Excel-like grid
+-  [handsontable](https://github.com/handsontable/handsontable) Excel-like data grid
+-  [ngHandsontable](https://github.com/handsontable/ngHandsontable)
 
 ## Editor
 
