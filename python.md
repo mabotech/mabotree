@@ -56,7 +56,7 @@
 ## Web
 - [Flask](http://flask.pocoo.org/)
 - [flask-restful](https://github.com/flask-restful/flask-restful)
-- [falcon](https://github.com/racker/falcon)
+- [falcon](https://github.com/falconry/falcon)
 - [pulsar](https://github.com/quantmind/pulsar) -> JSON-RPC, Socket servers, Task queue
 - [Mako Template](http://www.makotemplates.org/)
 - [Requests](https://github.com/kennethreitz/requests)
@@ -99,6 +99,10 @@ task, job, batch, scheduler
 ## SQL
 
 - [sqlparse](https://github.com/andialbrecht/sqlparse/)
+
+## Excel
+
+- []()
 
 ## Format
 

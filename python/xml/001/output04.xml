@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlexNet_Products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.0">
+  <Uom>
+    <UomCode>PCE</UomCode>
+  </Uom>
+  <Group>
+    <Group>FERT</Group>
+    <GroupType>2</GroupType>
+    <GroupClassID>1</GroupClassID>
+  </Group>
+  <Product>
+    <ProductNo>MP140543</ProductNo>
+    <LotTrackingCode>0</LotTrackingCode>
+    <SerialTrackingCode>0</SerialTrackingCode>
+    <FractionAllowed>0</FractionAllowed>
+    <RevisionControlFlag>0</RevisionControlFlag>
+    <DefaultUomCode>PCE</DefaultUomCode>
+    <ProductInventoryType>8</ProductInventoryType>
+    <Medium>GYNO-PEVARYL 50MG OV 1X15 PL</Medium>
+    <TextID>
+      <Text>
+        <Active>1</Active>
+      </Text>
+    </TextID>
+    <ProductUom>
+      <UomCode>PCE</UomCode>
+      <StockingFlag>0</StockingFlag>
+      <ProductID NodeType="Field"/>
+    </ProductUom>
+    <ProductUomConversion>
+      <UomCodeFrom>PCE</UomCodeFrom>
+      <UomCodeTo>PCE</UomCodeTo>
+      <ConversionFactor>1</ConversionFactor>
+      <ProductID NodeType="Field"/>
+    </ProductUomConversion>
+    <ProductFacility>
+      <Facility>8617</Facility>
+      <FacilityProdStatus>1</FacilityProdStatus>
+      <LotTrackingCode>4</LotTrackingCode>
+      <SerialTrackingCode>0</SerialTrackingCode>
+      <InspectionRequired>0</InspectionRequired>
+      <ProductID NodeType="Field"/>
+    </ProductFacility>
+    <ProductGroup>
+      <Group>FERT</Group>
+      <GroupType>2</GroupType>
+      <GroupClassID>1</GroupClassID>
+      <ProductID NodeType="Field"/>
+    </ProductGroup>
+    <ProductCost>
+      <UnitCost>969.7</UnitCost>
+      <ProductID NodeType="Field"/>
+    </ProductCost>
+    <ProductCost>
+      <UnitCost>0</UnitCost>
+      <ProductID NodeType="Field"/>
+    </ProductCost>
+    <ProductDimension>
+      <DimensionCode>UnitNetWeight</DimensionCode>
+      <AverageValue>10.609</AverageValue>
+      <UomCode>KGM</UomCode>
+      <ProductID NodeType="Field"/>
+    </ProductDimension>
+    <ProductDimension>
+      <DimensionCode>WidthDimension</DimensionCode>
+      <AverageValue>0.000</AverageValue>
+      <ProductID NodeType="Field"/>
+    </ProductDimension>
+    <ProductDimension>
+      <DimensionCode>LengthDimension</DimensionCode>
+      <AverageValue>0.000</AverageValue>
+      <ProductID NodeType="Field"/>
+    </ProductDimension>
+    <ProductDimension>
+      <DimensionCode>HeightDimension</DimensionCode>
+      <AverageValue>0.000</AverageValue>
+      <ProductID NodeType="Field"/>
+    </ProductDimension>
+    <ProductDimension>
+      <DimensionCode>UnitGrossWeight</DimensionCode>
+      <AverageValue>10.609</AverageValue>
+      <ProductID NodeType="Field"/>
+    </ProductDimension>
+    <Product_Text>
+      <ID NodeType="Field"/>
+      <TextTranslation>
+        <LanguageID>2052</LanguageID>
+        <Medium>GYNO-PEVARYL 50MG OV 1X15 PL</Medium>
+        <TextID NodeType="Field"/>
+      </TextTranslation>
+    </Product_Text>
+    <Product_Text>
+      <ID NodeType="Field"/>
+      <TextTranslation>
+        <LanguageID>1033</LanguageID>
+        <Extended>R014827-F013</Extended>
+        <TextID NodeType="Field"/>
+      </TextTranslation>
+    </Product_Text>
+    <Product_Text>
+      <ID NodeType="Field"/>
+      <TextTranslation>
+        <LanguageID>1033</LanguageID>
+        <Extended>1×15 ovules</Extended>
+        <TextID NodeType="Field"/>
+      </TextTranslation>
+    </Product_Text>
+    <Product_Text>
+      <ID NodeType="Field"/>
+      <TextTranslation>
+        <LanguageID>1033</LanguageID>
+        <Extended>50mg/ovule</Extended>
+        <TextID NodeType="Field"/>
+      </TextTranslation>
+    </Product_Text>
+    <Product_Text>
+      <ID NodeType="Field"/>
+      <TextTranslation>
+        <LanguageID>2052</LanguageID>
+        <Extended>西安杨森制药有限公司</Extended>
+        <TextID NodeType="Field"/>
+      </TextTranslation>
+    </Product_Text>
+    <Product_Text>
+      <ID NodeType="Field"/>
+      <TextTranslation>
+        <LanguageID>1033</LanguageID>
+        <Extended>Complies with the specification MPS-SPR-R014827F013-001-DP-GLO-V1</Extended>
+        <TextID NodeType="Field"/>
+      </TextTranslation>
+    </Product_Text>
+  </Product>
+</FlexNet_Products>
